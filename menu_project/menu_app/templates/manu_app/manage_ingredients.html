@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Manage Ingredients</title>
+</head>
+<body>
+    <h1>Manage Ingredients</h1>
+    <ul>
+        {% for ingredient in ingredients %}
+            <li>{{ ingredient.name }} - <a href="#">Edit</a></li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

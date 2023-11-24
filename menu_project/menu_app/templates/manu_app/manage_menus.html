@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Manage Menus</title>
+</head>
+<body>
+    <h1>Manage Menus</h1>
+    <ul>
+        {% for menu in menus %}
+            <li>{{ menu.name }} - <a href="#">Edit</a></li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

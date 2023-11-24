@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Random Menu</title>
+</head>
+<body>
+    <h1>Random Menu</h1>
+    <p>Name: {{ menu.name }}</p>
+    <p>Ingredients:</p>
+    <ul>
+        {% for ingredient in ingredients %}
+            <li>{{ ingredient.name }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>
