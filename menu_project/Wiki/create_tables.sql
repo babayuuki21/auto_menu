@@ -3,7 +3,7 @@
 CREATE TABLE menu (
     menu_id INTEGER PRIMARY KEY,
     menu_name TEXT NOT NULL,
-    category_code INTEGER NOT NULL,
+    menu_category_code TEXT NOT NULL,
     cooking_time INTEGER
 );
 
@@ -11,7 +11,7 @@ CREATE TABLE menu (
 CREATE TABLE ingredient (
     ingredient_id INTEGER PRIMARY KEY,
     ingredient_name TEXT NOT NULL,
-    category_code TEXT NOT NULL,
+    ingredient_category_code TEXT NOT NULL,
     allergen_level INTEGER NOT NULL
 );
 
