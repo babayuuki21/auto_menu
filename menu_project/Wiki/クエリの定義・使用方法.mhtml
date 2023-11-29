@@ -1,14 +1,14 @@
 From: <Saved by Blink>
 Snapshot-Content-Location: https://chat.openai.com/c/9e67d17b-4ae1-4e34-9755-ab53ced6b9bf
 Subject: ChatGPT
-Date: Wed, 29 Nov 2023 15:17:26 +0900
+Date: Wed, 29 Nov 2023 17:35:58 +0900
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--wePgIKcddw5bpUbjJGB5NNEFX7f5u3NkqozclNLgtx----"
+	boundary="----MultipartBoundary--eFEfUYfEWSnpDmEc0LpdXlvSP2HGY5AkULjQpQpsjd----"
 
 
-------MultipartBoundary--wePgIKcddw5bpUbjJGB5NNEFX7f5u3NkqozclNLgtx----
+------MultipartBoundary--eFEfUYfEWSnpDmEc0LpdXlvSP2HGY5AkULjQpQpsjd----
 Content-Type: text/html
 Content-ID: <frame-235CAF78ABDF831624A5F38D774B8125@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
@@ -16,12 +16,12 @@ Content-Location: https://chat.openai.com/c/9e67d17b-4ae1-4e34-9755-ab53ced6b9bf
 
 <!DOCTYPE html><html class=3D"light" lang=3D"en-US" style=3D"color-scheme: =
 light;"><head><meta http-equiv=3D"Content-Type" content=3D"text/html; chars=
-et=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-662e=
-3259-bcc8-46ea-9e21-2134b9cd5b4a@mhtml.blink" /><link rel=3D"stylesheet" ty=
-pe=3D"text/css" href=3D"cid:css-7dc6adc2-5d17-4bbb-8700-03833dc13457@mhtml.=
-blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-d9922ee=
-e-b962-4a9f-aea9-6db7a5aa943f@mhtml.blink" /><link rel=3D"stylesheet" type=
-=3D"text/css" href=3D"cid:css-2827a264-ed73-4e3f-8c15-d9541e26857d@mhtml.bl=
+et=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-6625=
+d0d7-0ee3-46a7-bb14-04de1f5d4aa5@mhtml.blink" /><link rel=3D"stylesheet" ty=
+pe=3D"text/css" href=3D"cid:css-d45613e6-d880-4d62-ac25-068449afbabb@mhtml.=
+blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-b97bf5f=
+5-dda9-4977-b0a8-edf768988e26@mhtml.blink" /><link rel=3D"stylesheet" type=
+=3D"text/css" href=3D"cid:css-bd58fc3c-0c9e-4807-b766-09433d94c868@mhtml.bl=
 ink" /><link rel=3D"apple-touch-icon" sizes=3D"180x180" href=3D"https://cdn=
 .oaistatic.com/_next/static/media/apple-touch-icon.59f2e898.png"><link rel=
 =3D"icon" type=3D"image/png" sizes=3D"32x32" href=3D"https://cdn.oaistatic.=
@@ -2263,91 +2263,91 @@ div></div></div></div></div></div></div><div class=3D"w-full text-token-tex=
 t-primary" data-testid=3D"conversation-turn-17" style=3D"--avatar-color: #1=
 9c37d;"><div class=3D"px-4 py-2 justify-center text-base md:gap-6 m-auto"><=
 div class=3D"flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md=
-:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] } group final-completion"><div=
- class=3D"flex-shrink-0 flex flex-col relative items-end"><div><div class=
-=3D"pt-0.5"><div class=3D"gizmo-shadow-stroke flex h-6 w-6 items-center jus=
-tify-center overflow-hidden rounded-full"><div class=3D"relative p-1 rounde=
-d-sm h-9 w-9 text-white flex items-center justify-center" style=3D"backgrou=
-nd-color: rgb(25, 195, 125); width: 24px; height: 24px;"><svg width=3D"41" =
-height=3D"41" viewBox=3D"0 0 41 41" fill=3D"none" xmlns=3D"http://www.w3.or=
-g/2000/svg" class=3D"icon-sm" role=3D"img"><text x=3D"-9999" y=3D"-9999">Ch=
-atGPT</text><path d=3D"M37.5324 16.8707C37.9808 15.5241 38.1363 14.0974 37.=
-9886 12.6859C37.8409 11.2744 37.3934 9.91076 36.676 8.68622C35.6126 6.83404=
- 33.9882 5.3676 32.0373 4.4985C30.0864 3.62941 27.9098 3.40259 25.8215 3.85=
-078C24.8796 2.7893 23.7219 1.94125 22.4257 1.36341C21.1295 0.785575 19.7249=
- 0.491269 18.3058 0.500197C16.1708 0.495044 14.0893 1.16803 12.3614 2.42214=
-C10.6335 3.67624 9.34853 5.44666 8.6917 7.47815C7.30085 7.76286 5.98686 8.3=
-414 4.8377 9.17505C3.68854 10.0087 2.73073 11.0782 2.02839 12.312C0.956464 =
-14.1591 0.498905 16.2988 0.721698 18.4228C0.944492 20.5467 1.83612 22.5449 =
-3.268 24.1293C2.81966 25.4759 2.66413 26.9026 2.81182 28.3141C2.95951 29.72=
-56 3.40701 31.0892 4.12437 32.3138C5.18791 34.1659 6.8123 35.6322 8.76321 3=
-6.5013C10.7141 37.3704 12.8907 37.5973 14.9789 37.1492C15.9208 38.2107 17.0=
-786 39.0587 18.3747 39.6366C19.6709 40.2144 21.0755 40.5087 22.4946 40.4998=
-C24.6307 40.5054 26.7133 39.8321 28.4418 38.5772C30.1704 37.3223 31.4556 35=
-.5506 32.1119 33.5179C33.5027 33.2332 34.8167 32.6547 35.9659 31.821C37.115=
- 30.9874 38.0728 29.9178 38.7752 28.684C39.8458 26.8371 40.3023 24.6979 40.=
-0789 22.5748C39.8556 20.4517 38.9639 18.4544 37.5324 16.8707ZM22.4978 37.88=
-49C20.7443 37.8874 19.0459 37.2733 17.6994 36.1501C17.7601 36.117 17.8666 3=
-6.0586 17.936 36.0161L25.9004 31.4156C26.1003 31.3019 26.2663 31.137 26.381=
-3 30.9378C26.4964 30.7386 26.5563 30.5124 26.5549 30.2825V19.0542L29.9213 2=
-0.998C29.9389 21.0068 29.9541 21.0198 29.9656 21.0359C29.977 21.052 29.9842=
- 21.0707 29.9867 21.0902V30.3889C29.9842 32.375 29.1946 34.2791 27.7909 35.=
-6841C26.3872 37.0892 24.4838 37.8806 22.4978 37.8849ZM6.39227 31.0064C5.513=
-97 29.4888 5.19742 27.7107 5.49804 25.9832C5.55718 26.0187 5.66048 26.0818 =
-5.73461 26.1244L13.699 30.7248C13.8975 30.8408 14.1233 30.902 14.3532 30.90=
-2C14.583 30.902 14.8088 30.8408 15.0073 30.7248L24.731 25.1103V28.9979C24.7=
-321 29.0177 24.7283 29.0376 24.7199 29.0556C24.7115 29.0736 24.6988 29.0893=
- 24.6829 29.1012L16.6317 33.7497C14.9096 34.7416 12.8643 35.0097 10.9447 34=
-.4954C9.02506 33.9811 7.38785 32.7263 6.39227 31.0064ZM4.29707 13.6194C5.17=
-156 12.0998 6.55279 10.9364 8.19885 10.3327C8.19885 10.4013 8.19491 10.5228=
- 8.19491 10.6071V19.808C8.19351 20.0378 8.25334 20.2638 8.36823 20.4629C8.4=
-8312 20.6619 8.64893 20.8267 8.84863 20.9404L18.5723 26.5542L15.206 28.4979=
-C15.1894 28.5089 15.1703 28.5155 15.1505 28.5173C15.1307 28.5191 15.1107 28=
-.516 15.0924 28.5082L7.04046 23.8557C5.32135 22.8601 4.06716 21.2235 3.5528=
-9 19.3046C3.03862 17.3858 3.30624 15.3413 4.29707 13.6194ZM31.955 20.0556L2=
-2.2312 14.4411L25.5976 12.4981C25.6142 12.4872 25.6333 12.4805 25.6531 12.4=
-787C25.6729 12.4769 25.6928 12.4801 25.7111 12.4879L33.7631 17.1364C34.9967=
- 17.849 36.0017 18.8982 36.6606 20.1613C37.3194 21.4244 37.6047 22.849 37.4=
-832 24.2684C37.3617 25.6878 36.8382 27.0432 35.9743 28.1759C35.1103 29.3086=
- 33.9415 30.1717 32.6047 30.6641C32.6047 30.5947 32.6047 30.4733 32.6047 30=
-.3889V21.188C32.6066 20.9586 32.5474 20.7328 32.4332 20.5338C32.319 20.3348=
- 32.154 20.1698 31.955 20.0556ZM35.3055 15.0128C35.2464 14.9765 35.1431 14.=
-9142 35.069 14.8717L27.1045 10.2712C26.906 10.1554 26.6803 10.0943 26.4504 =
-10.0943C26.2206 10.0943 25.9948 10.1554 25.7963 10.2712L16.0726 15.8858V11.=
-9982C16.0715 11.9783 16.0753 11.9585 16.0837 11.9405C16.0921 11.9225 16.104=
-8 11.9068 16.1207 11.8949L24.1719 7.25025C25.4053 6.53903 26.8158 6.19376 2=
-8.2383 6.25482C29.6608 6.31589 31.0364 6.78077 32.2044 7.59508C33.3723 8.40=
-939 34.2842 9.53945 34.8334 10.8531C35.3826 12.1667 35.5464 13.6095 35.3055=
- 15.0128ZM14.2424 21.9419L10.8752 19.9981C10.8576 19.9893 10.8423 19.9763 1=
-0.8309 19.9602C10.8195 19.9441 10.8122 19.9254 10.8098 19.9058V10.6071C10.8=
-107 9.18295 11.2173 7.78848 11.9819 6.58696C12.7466 5.38544 13.8377 4.42659=
- 15.1275 3.82264C16.4173 3.21869 17.8524 2.99464 19.2649 3.1767C20.6775 3.3=
-5876 22.0089 3.93941 23.1034 4.85067C23.0427 4.88379 22.937 4.94215 22.8668=
- 4.98473L14.9024 9.58517C14.7025 9.69878 14.5366 9.86356 14.4215 10.0626C14=
-.3065 10.2616 14.2466 10.4877 14.2479 10.7175L14.2424 21.9419ZM16.071 17.99=
-91L20.4018 15.4978L24.7325 17.9975V22.9985L20.4018 25.4983L16.071 22.9985V1=
-7.9991Z" fill=3D"currentColor"></path></svg></div></div></div></div></div><=
-div class=3D"relative flex w-full flex-col lg:w-[calc(100%-115px)] agent-tu=
-rn"><div class=3D"font-semibold select-none">ChatGPT</div><div class=3D"fle=
-x-col gap-1 md:gap-3"><div class=3D"flex flex-grow flex-col max-w-full"><di=
-v data-message-author-role=3D"assistant" data-message-id=3D"ea2ffc6f-836f-4=
-87d-8d9a-210e1b80c3d4" class=3D"min-h-[20px] text-message flex flex-col ite=
-ms-start gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 o=
-verflow-x-auto"><div class=3D"markdown prose w-full break-words dark:prose-=
-invert light"><p>=E7=94=9F=E3=81=AESQL=E3=82=AF=E3=82=A8=E3=83=AA=E3=82=92=
-=E4=BD=BF=E7=94=A8=E3=81=99=E3=82=8B=E5=A0=B4=E5=90=88=E3=81=A7=E3=82=82=E3=
-=80=81=E3=82=B3=E3=83=BC=E3=83=89=E3=82=92=E5=85=B1=E9=80=9A=E5=8C=96=E3=81=
-=97=E3=82=84=E3=81=99=E3=81=8F=E3=81=99=E3=82=8B=E3=81=9F=E3=82=81=E3=81=AB=
-=E3=81=AF=E3=80=81=E3=83=87=E3=83=BC=E3=82=BF=E3=83=99=E3=83=BC=E3=82=B9=E3=
-=82=A2=E3=82=AF=E3=82=BB=E3=82=B9=E3=81=AB=E9=96=A2=E9=80=A3=E3=81=99=E3=82=
-=8B=E3=83=AD=E3=82=B8=E3=83=83=E3=82=AF=E3=82=92=E3=81=BE=E3=81=A8=E3=82=81=
-=E3=81=9F=E3=82=8A=E3=80=81=E5=86=8D=E5=88=A9=E7=94=A8=E5=8F=AF=E8=83=BD=E3=
-=81=AA=E9=96=A2=E6=95=B0=E3=82=84=E3=82=AF=E3=83=A9=E3=82=B9=E3=82=92=E7=94=
-=A8=E6=84=8F=E3=81=99=E3=82=8B=E3=81=93=E3=81=A8=E3=81=8C=E6=9C=9B=E3=81=BE=
-=E3=81=97=E3=81=84=E3=81=A7=E3=81=99=E3=80=82=E4=BB=A5=E4=B8=8B=E3=81=AF=E3=
-=80=81=E7=B0=A1=E5=8D=98=E3=81=AA=E3=83=A2=E3=82=B8=E3=83=A5=E3=83=BC=E3=83=
-=AB=E6=A7=8B=E6=88=90=E3=81=AE=E4=BE=8B=E3=81=A7=E3=81=99=E3=80=82</p><ol><=
-li><p><strong>db_utils.py:</strong>
+:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] } group"><div class=3D"flex-sh=
+rink-0 flex flex-col relative items-end"><div><div class=3D"pt-0.5"><div cl=
+ass=3D"gizmo-shadow-stroke flex h-6 w-6 items-center justify-center overflo=
+w-hidden rounded-full"><div class=3D"relative p-1 rounded-sm h-9 w-9 text-w=
+hite flex items-center justify-center" style=3D"background-color: rgb(25, 1=
+95, 125); width: 24px; height: 24px;"><svg width=3D"41" height=3D"41" viewB=
+ox=3D"0 0 41 41" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg" class=
+=3D"icon-sm" role=3D"img"><text x=3D"-9999" y=3D"-9999">ChatGPT</text><path=
+ d=3D"M37.5324 16.8707C37.9808 15.5241 38.1363 14.0974 37.9886 12.6859C37.8=
+409 11.2744 37.3934 9.91076 36.676 8.68622C35.6126 6.83404 33.9882 5.3676 3=
+2.0373 4.4985C30.0864 3.62941 27.9098 3.40259 25.8215 3.85078C24.8796 2.789=
+3 23.7219 1.94125 22.4257 1.36341C21.1295 0.785575 19.7249 0.491269 18.3058=
+ 0.500197C16.1708 0.495044 14.0893 1.16803 12.3614 2.42214C10.6335 3.67624 =
+9.34853 5.44666 8.6917 7.47815C7.30085 7.76286 5.98686 8.3414 4.8377 9.1750=
+5C3.68854 10.0087 2.73073 11.0782 2.02839 12.312C0.956464 14.1591 0.498905 =
+16.2988 0.721698 18.4228C0.944492 20.5467 1.83612 22.5449 3.268 24.1293C2.8=
+1966 25.4759 2.66413 26.9026 2.81182 28.3141C2.95951 29.7256 3.40701 31.089=
+2 4.12437 32.3138C5.18791 34.1659 6.8123 35.6322 8.76321 36.5013C10.7141 37=
+.3704 12.8907 37.5973 14.9789 37.1492C15.9208 38.2107 17.0786 39.0587 18.37=
+47 39.6366C19.6709 40.2144 21.0755 40.5087 22.4946 40.4998C24.6307 40.5054 =
+26.7133 39.8321 28.4418 38.5772C30.1704 37.3223 31.4556 35.5506 32.1119 33.=
+5179C33.5027 33.2332 34.8167 32.6547 35.9659 31.821C37.115 30.9874 38.0728 =
+29.9178 38.7752 28.684C39.8458 26.8371 40.3023 24.6979 40.0789 22.5748C39.8=
+556 20.4517 38.9639 18.4544 37.5324 16.8707ZM22.4978 37.8849C20.7443 37.887=
+4 19.0459 37.2733 17.6994 36.1501C17.7601 36.117 17.8666 36.0586 17.936 36.=
+0161L25.9004 31.4156C26.1003 31.3019 26.2663 31.137 26.3813 30.9378C26.4964=
+ 30.7386 26.5563 30.5124 26.5549 30.2825V19.0542L29.9213 20.998C29.9389 21.=
+0068 29.9541 21.0198 29.9656 21.0359C29.977 21.052 29.9842 21.0707 29.9867 =
+21.0902V30.3889C29.9842 32.375 29.1946 34.2791 27.7909 35.6841C26.3872 37.0=
+892 24.4838 37.8806 22.4978 37.8849ZM6.39227 31.0064C5.51397 29.4888 5.1974=
+2 27.7107 5.49804 25.9832C5.55718 26.0187 5.66048 26.0818 5.73461 26.1244L1=
+3.699 30.7248C13.8975 30.8408 14.1233 30.902 14.3532 30.902C14.583 30.902 1=
+4.8088 30.8408 15.0073 30.7248L24.731 25.1103V28.9979C24.7321 29.0177 24.72=
+83 29.0376 24.7199 29.0556C24.7115 29.0736 24.6988 29.0893 24.6829 29.1012L=
+16.6317 33.7497C14.9096 34.7416 12.8643 35.0097 10.9447 34.4954C9.02506 33.=
+9811 7.38785 32.7263 6.39227 31.0064ZM4.29707 13.6194C5.17156 12.0998 6.552=
+79 10.9364 8.19885 10.3327C8.19885 10.4013 8.19491 10.5228 8.19491 10.6071V=
+19.808C8.19351 20.0378 8.25334 20.2638 8.36823 20.4629C8.48312 20.6619 8.64=
+893 20.8267 8.84863 20.9404L18.5723 26.5542L15.206 28.4979C15.1894 28.5089 =
+15.1703 28.5155 15.1505 28.5173C15.1307 28.5191 15.1107 28.516 15.0924 28.5=
+082L7.04046 23.8557C5.32135 22.8601 4.06716 21.2235 3.55289 19.3046C3.03862=
+ 17.3858 3.30624 15.3413 4.29707 13.6194ZM31.955 20.0556L22.2312 14.4411L25=
+.5976 12.4981C25.6142 12.4872 25.6333 12.4805 25.6531 12.4787C25.6729 12.47=
+69 25.6928 12.4801 25.7111 12.4879L33.7631 17.1364C34.9967 17.849 36.0017 1=
+8.8982 36.6606 20.1613C37.3194 21.4244 37.6047 22.849 37.4832 24.2684C37.36=
+17 25.6878 36.8382 27.0432 35.9743 28.1759C35.1103 29.3086 33.9415 30.1717 =
+32.6047 30.6641C32.6047 30.5947 32.6047 30.4733 32.6047 30.3889V21.188C32.6=
+066 20.9586 32.5474 20.7328 32.4332 20.5338C32.319 20.3348 32.154 20.1698 3=
+1.955 20.0556ZM35.3055 15.0128C35.2464 14.9765 35.1431 14.9142 35.069 14.87=
+17L27.1045 10.2712C26.906 10.1554 26.6803 10.0943 26.4504 10.0943C26.2206 1=
+0.0943 25.9948 10.1554 25.7963 10.2712L16.0726 15.8858V11.9982C16.0715 11.9=
+783 16.0753 11.9585 16.0837 11.9405C16.0921 11.9225 16.1048 11.9068 16.1207=
+ 11.8949L24.1719 7.25025C25.4053 6.53903 26.8158 6.19376 28.2383 6.25482C29=
+.6608 6.31589 31.0364 6.78077 32.2044 7.59508C33.3723 8.40939 34.2842 9.539=
+45 34.8334 10.8531C35.3826 12.1667 35.5464 13.6095 35.3055 15.0128ZM14.2424=
+ 21.9419L10.8752 19.9981C10.8576 19.9893 10.8423 19.9763 10.8309 19.9602C10=
+.8195 19.9441 10.8122 19.9254 10.8098 19.9058V10.6071C10.8107 9.18295 11.21=
+73 7.78848 11.9819 6.58696C12.7466 5.38544 13.8377 4.42659 15.1275 3.82264C=
+16.4173 3.21869 17.8524 2.99464 19.2649 3.1767C20.6775 3.35876 22.0089 3.93=
+941 23.1034 4.85067C23.0427 4.88379 22.937 4.94215 22.8668 4.98473L14.9024 =
+9.58517C14.7025 9.69878 14.5366 9.86356 14.4215 10.0626C14.3065 10.2616 14.=
+2466 10.4877 14.2479 10.7175L14.2424 21.9419ZM16.071 17.9991L20.4018 15.497=
+8L24.7325 17.9975V22.9985L20.4018 25.4983L16.071 22.9985V17.9991Z" fill=3D"=
+currentColor"></path></svg></div></div></div></div></div><div class=3D"rela=
+tive flex w-full flex-col lg:w-[calc(100%-115px)] agent-turn"><div class=3D=
+"font-semibold select-none">ChatGPT</div><div class=3D"flex-col gap-1 md:ga=
+p-3"><div class=3D"flex flex-grow flex-col max-w-full"><div data-message-au=
+thor-role=3D"assistant" data-message-id=3D"ea2ffc6f-836f-487d-8d9a-210e1b80=
+c3d4" class=3D"min-h-[20px] text-message flex flex-col items-start gap-3 wh=
+itespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflow-x-auto"><=
+div class=3D"markdown prose w-full break-words dark:prose-invert light"><p>=
+=E7=94=9F=E3=81=AESQL=E3=82=AF=E3=82=A8=E3=83=AA=E3=82=92=E4=BD=BF=E7=94=A8=
+=E3=81=99=E3=82=8B=E5=A0=B4=E5=90=88=E3=81=A7=E3=82=82=E3=80=81=E3=82=B3=E3=
+=83=BC=E3=83=89=E3=82=92=E5=85=B1=E9=80=9A=E5=8C=96=E3=81=97=E3=82=84=E3=81=
+=99=E3=81=8F=E3=81=99=E3=82=8B=E3=81=9F=E3=82=81=E3=81=AB=E3=81=AF=E3=80=81=
+=E3=83=87=E3=83=BC=E3=82=BF=E3=83=99=E3=83=BC=E3=82=B9=E3=82=A2=E3=82=AF=E3=
+=82=BB=E3=82=B9=E3=81=AB=E9=96=A2=E9=80=A3=E3=81=99=E3=82=8B=E3=83=AD=E3=82=
+=B8=E3=83=83=E3=82=AF=E3=82=92=E3=81=BE=E3=81=A8=E3=82=81=E3=81=9F=E3=82=8A=
+=E3=80=81=E5=86=8D=E5=88=A9=E7=94=A8=E5=8F=AF=E8=83=BD=E3=81=AA=E9=96=A2=E6=
+=95=B0=E3=82=84=E3=82=AF=E3=83=A9=E3=82=B9=E3=82=92=E7=94=A8=E6=84=8F=E3=81=
+=99=E3=82=8B=E3=81=93=E3=81=A8=E3=81=8C=E6=9C=9B=E3=81=BE=E3=81=97=E3=81=84=
+=E3=81=A7=E3=81=99=E3=80=82=E4=BB=A5=E4=B8=8B=E3=81=AF=E3=80=81=E7=B0=A1=E5=
+=8D=98=E3=81=AA=E3=83=A2=E3=82=B8=E3=83=A5=E3=83=BC=E3=83=AB=E6=A7=8B=E6=88=
+=90=E3=81=AE=E4=BE=8B=E3=81=A7=E3=81=99=E3=80=82</p><ol><li><p><strong>db_u=
+tils.py:</strong>
 =E3=81=93=E3=81=AE=E3=83=A2=E3=82=B8=E3=83=A5=E3=83=BC=E3=83=AB=E3=81=AB=E3=
 =81=AF=E3=80=81=E7=94=9F=E3=81=AESQL=E3=82=AF=E3=82=A8=E3=83=AA=E3=82=92=E7=
 =99=BA=E8=A1=8C=E3=81=99=E3=82=8B=E3=81=9F=E3=82=81=E3=81=AE=E9=96=A2=E6=95=
@@ -2516,74 +2516,339 @@ ww.w3.org/2000/svg" class=3D"icon-md"><path fill-rule=3D"evenodd" clip-rule=
 5C15.0045 4.44772 14.5568 4 14.0045 4ZM17.0045 13V5C17.0045 4.64937 16.9444=
  4.31278 16.8338 4H18.0045C18.5568 4 19.0045 4.44772 19.0045 5V12C19.0045 1=
 2.5523 18.5568 13 18.0045 13H17.0045Z" fill=3D"currentColor"></path></svg><=
-/button></div><button class=3D"p-1 pl-0 rounded-md disabled:dark:hover:text=
--gray-400 dark:hover:text-gray-200 dark:text-gray-400 text-gray-400 hover:t=
-ext-gray-950 md:invisible md:group-hover:visible md:group-[.final-completio=
-n]:visible"><div class=3D"flex items-center gap-1.5 text-xs"><svg width=3D"=
-24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" xmlns=3D"http://www.w=
-3.org/2000/svg" class=3D"icon-md"><path fill-rule=3D"evenodd" clip-rule=3D"=
-evenodd" d=3D"M4.5 2.5C5.05228 2.5 5.5 2.94772 5.5 3.5V5.07196C7.19872 3.47=
-759 9.48483 2.5 12 2.5C17.2467 2.5 21.5 6.75329 21.5 12C21.5 17.2467 17.246=
-7 21.5 12 21.5C7.1307 21.5 3.11828 17.8375 2.565 13.1164C2.50071 12.5679 2.=
-89327 12.0711 3.4418 12.0068C3.99033 11.9425 4.48712 12.3351 4.5514 12.8836=
-C4.98798 16.6089 8.15708 19.5 12 19.5C16.1421 19.5 19.5 16.1421 19.5 12C19.=
-5 7.85786 16.1421 4.5 12 4.5C9.7796 4.5 7.7836 5.46469 6.40954 7H9C9.55228 =
-7 10 7.44772 10 8C10 8.55228 9.55228 9 9 9H4.5C3.96064 9 3.52101 8.57299 3.=
-50073 8.03859C3.49983 8.01771 3.49958 7.99677 3.5 7.9758V3.5C3.5 2.94772 3.=
-94771 2.5 4.5 2.5Z" fill=3D"currentColor"></path></svg></div></button></div=
-></div></div></div></div></div></div></div></div></div></div><div class=3D"=
-w-full pt-2 md:pt-0 dark:border-white/20 md:border-transparent md:dark:bord=
-er-transparent md:w-[calc(100%-.5rem)]"><form class=3D"stretch mx-2 flex fl=
-ex-row gap-3 last:mb-2 md:mx-4 md:last:mb-6 lg:mx-auto lg:max-w-2xl xl:max-=
-w-3xl"><div class=3D"relative flex h-full flex-1 items-stretch md:flex-col"=
-><div class=3D"flex w-full items-center"><div class=3D"overflow-hidden [&am=
-p;:has(textarea:focus)]:border-token-border-xheavy [&amp;:has(textarea:focu=
-s)]:shadow-[0_2px_6px_rgba(0,0,0,.05)] flex flex-col w-full dark:border-tok=
-en-border-heavy flex-grow relative border border-token-border-heavy dark:te=
-xt-white rounded-2xl bg-white dark:bg-gray-800 shadow-[0_0_0_2px_rgba(255,2=
-55,255,0.95)] dark:shadow-[0_0_0_2px_rgba(52,53,65,0.95)]"><textarea id=3D"=
-prompt-textarea" tabindex=3D"0" data-id=3D"request-NEW:0-7" rows=3D"1" plac=
-eholder=3D"Message ChatGPT=E2=80=A6" class=3D"m-0 w-full resize-none border=
--0 bg-transparent py-[10px] pr-10 focus:ring-0 focus-visible:ring-0 dark:bg=
--transparent md:py-3.5 md:pr-12 placeholder-black/50 dark:placeholder-white=
-/50 pl-3 md:pl-4" style=3D"max-height: 200px; height: 52px; overflow-y: hid=
-den;"></textarea><button disabled=3D"" class=3D"absolute md:bottom-3 md:rig=
-ht-3 dark:hover:bg-gray-900 dark:disabled:hover:bg-transparent right-2 dark=
-:disabled:bg-white disabled:bg-black disabled:opacity-10 disabled:text-gray=
--400 enabled:bg-black text-white p-0.5 border border-black rounded-lg dark:=
-border-white dark:bg-white bottom-1.5 transition-colors" data-testid=3D"sen=
-d-button"><span class=3D"" data-state=3D"closed"><svg width=3D"24" height=
-=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" class=3D"text-white dark:text-b=
-lack"><path d=3D"M7 11L12 6L17 11M12 18V7" stroke=3D"currentColor" stroke-w=
-idth=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round"></path></svg>=
-</span></button></div></div></div></form><div class=3D"relative px-2 py-2 t=
-ext-center text-xs text-gray-600 dark:text-gray-300 md:px-[60px]"><span>Cha=
-tGPT can make mistakes. Consider checking important information.</span></di=
-v></div></div><div class=3D"group fixed bottom-3 right-3 z-10 hidden gap-1 =
-lg:flex"><div class=3D"group relative" data-headlessui-state=3D""><button c=
-lass=3D"flex items-center justify-center rounded-full border border-gray-20=
-0 bg-gray-50 text-gray-600 dark:border-white/10 dark:bg-white/10 dark:text-=
-gray-200" id=3D"headlessui-menu-button-:R1kjapdm:" type=3D"button" aria-has=
-popup=3D"true" aria-expanded=3D"false" data-headlessui-state=3D""><div clas=
-s=3D"flex h-6 w-6 items-center justify-center text-xs">?</div></button></di=
-v></div></main></div></div><div class=3D"absolute left-0 right-0 top-0 z-[2=
-]"></div></div><next-route-announcer><p aria-live=3D"assertive" id=3D"__nex=
-t-route-announcer__" role=3D"alert" style=3D"border: 0px; clip: rect(0px, 0=
-px, 0px, 0px); height: 1px; margin: -1px; overflow: hidden; padding: 0px; p=
-osition: absolute; top: 0px; width: 1px; white-space: nowrap; overflow-wrap=
-: normal;">ChatGPT</p></next-route-announcer><div portal-container=3D""><sp=
-an class=3D"pointer-events-none fixed inset-0 z-[60] mx-auto my-2 flex max-=
-w-[560px] flex-col items-stretch justify-start md:pb-5"></span></div><ifram=
-e id=3D"intercom-frame" style=3D"position: absolute !important; opacity: 0 =
-!important; width: 1px !important; height: 1px !important; top: 0 !importan=
-t; left: 0 !important; border: none !important; display: block !important; =
-z-index: -1 !important; pointer-events: none;" aria-hidden=3D"true" tabinde=
-x=3D"-1" title=3D"Intercom"></iframe><div class=3D"intercom-lightweight-app=
-"></div></body></html>
-------MultipartBoundary--wePgIKcddw5bpUbjJGB5NNEFX7f5u3NkqozclNLgtx----
+/button></div></div></div></div></div></div></div></div><div class=3D"w-ful=
+l text-token-text-primary" data-testid=3D"conversation-turn-18" style=3D"--=
+avatar-color: #19c37d;"><div class=3D"px-4 py-2 justify-center text-base md=
+:gap-6 m-auto"><div class=3D"flex flex-1 text-base mx-auto gap-3 md:px-5 lg=
+:px-1 xl:px-5 md:max-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] } group"><div =
+class=3D"flex-shrink-0 flex flex-col relative items-end"><div><div class=3D=
+"pt-0.5"><div class=3D"gizmo-shadow-stroke flex h-6 w-6 items-center justif=
+y-center overflow-hidden rounded-full"><div class=3D"relative flex"><img al=
+t=3D"User" loading=3D"lazy" width=3D"24" height=3D"24" decoding=3D"async" d=
+ata-nimg=3D"1" class=3D"rounded-sm" src=3D"https://lh3.googleusercontent.co=
+m/a/AAcHTteTMAGgYd-nuFul66FlTUGi1DQdZf2JfphJ-jPFFP3H=3Ds96-c" style=3D"colo=
+r: transparent;"></div></div></div></div></div><div class=3D"relative flex =
+w-full flex-col lg:w-[calc(100%-115px)]"><div class=3D"font-semibold select=
+-none">You</div><div class=3D"flex-col gap-1 md:gap-3"><div class=3D"flex f=
+lex-grow flex-col max-w-full"><div data-message-author-role=3D"user" data-m=
+essage-id=3D"aaa2b061-809c-4298-bd98-03945a26f249" class=3D"min-h-[20px] te=
+xt-message flex flex-col items-start gap-3 whitespace-pre-wrap break-words =
+[.text-message+&amp;]:mt-5 overflow-x-auto"><div class=3D"">=E8=A4=87=E6=95=
+=B0=E3=83=86=E3=83=BC=E3=83=96=E3=83=AB=E3=82=92=E5=AF=BE=E8=B1=A1=E3=81=AB=
+=E3=82=AF=E3=82=A8=E3=83=AA=E3=82=92=E5=AE=9F=E8=A1=8C=E3=81=97=E3=81=9F=E3=
+=81=84=E5=A0=B4=E5=90=88=E3=81=A7=E3=82=82=E3=83=A2=E3=83=87=E3=83=AB=E3=82=
+=AF=E3=82=A8=E3=83=AA=E3=82=BB=E3=83=83=E3=83=88=E3=81=AF=E6=9C=89=E5=8A=B9=
+=E3=81=A7=E3=81=99=E3=81=8B</div></div></div><div class=3D"mt-1 flex justif=
+y-start gap-3 empty:hidden"><div class=3D"text-gray-400 flex self-end lg:se=
+lf-center justify-center lg:justify-start mt-0 gap-1 visible"><button class=
+=3D"p-1 pl-0 rounded-md disabled:dark:hover:text-gray-400 dark:hover:text-g=
+ray-200 dark:text-gray-400 text-gray-400 hover:text-gray-950 md:invisible m=
+d:group-hover:visible md:group-[.final-completion]:visible"><div class=3D"f=
+lex items-center gap-1.5 text-xs"><svg width=3D"24" height=3D"24" viewBox=
+=3D"0 0 24 24" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg" class=3D"=
+icon-md"><path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M13.2929 4.=
+29291C15.0641 2.52167 17.9359 2.52167 19.7071 4.2929C21.4783 6.06414 21.478=
+3 8.93588 19.7071 10.7071L18.7073 11.7069L11.1603 19.2539C10.7182 19.696 10=
+.1489 19.989 9.53219 20.0918L4.1644 20.9864C3.84584 21.0395 3.52125 20.9355=
+ 3.29289 20.7071C3.06453 20.4788 2.96051 20.1542 3.0136 19.8356L3.90824 14.=
+4678C4.01103 13.8511 4.30396 13.2818 4.7461 12.8397L13.2929 4.29291ZM13 7.4=
+1422L6.16031 14.2539C6.01293 14.4013 5.91529 14.591 5.88102 14.7966L5.21655=
+ 18.7835L9.20339 18.119C9.40898 18.0847 9.59872 17.9871 9.7461 17.8397L16.5=
+858 11L13 7.41422ZM18 9.5858L14.4142 6.00001L14.7071 5.70712C15.6973 4.7169=
+3 17.3027 4.71693 18.2929 5.70712C19.2831 6.69731 19.2831 8.30272 18.2929 9=
+.29291L18 9.5858Z" fill=3D"currentColor"></path></svg></div></button></div>=
+</div></div></div></div></div></div><div class=3D"w-full text-token-text-pr=
+imary" data-testid=3D"conversation-turn-19" style=3D"--avatar-color: #19c37=
+d;"><div class=3D"px-4 py-2 justify-center text-base md:gap-6 m-auto"><div =
+class=3D"flex flex-1 text-base mx-auto gap-3 md:px-5 lg:px-1 xl:px-5 md:max=
+-w-3xl lg:max-w-[40rem] xl:max-w-[48rem] } group final-completion"><div cla=
+ss=3D"flex-shrink-0 flex flex-col relative items-end"><div><div class=3D"pt=
+-0.5"><div class=3D"gizmo-shadow-stroke flex h-6 w-6 items-center justify-c=
+enter overflow-hidden rounded-full"><div class=3D"relative p-1 rounded-sm h=
+-9 w-9 text-white flex items-center justify-center" style=3D"background-col=
+or: rgb(25, 195, 125); width: 24px; height: 24px;"><svg width=3D"41" height=
+=3D"41" viewBox=3D"0 0 41 41" fill=3D"none" xmlns=3D"http://www.w3.org/2000=
+/svg" class=3D"icon-sm" role=3D"img"><text x=3D"-9999" y=3D"-9999">ChatGPT<=
+/text><path d=3D"M37.5324 16.8707C37.9808 15.5241 38.1363 14.0974 37.9886 1=
+2.6859C37.8409 11.2744 37.3934 9.91076 36.676 8.68622C35.6126 6.83404 33.98=
+82 5.3676 32.0373 4.4985C30.0864 3.62941 27.9098 3.40259 25.8215 3.85078C24=
+.8796 2.7893 23.7219 1.94125 22.4257 1.36341C21.1295 0.785575 19.7249 0.491=
+269 18.3058 0.500197C16.1708 0.495044 14.0893 1.16803 12.3614 2.42214C10.63=
+35 3.67624 9.34853 5.44666 8.6917 7.47815C7.30085 7.76286 5.98686 8.3414 4.=
+8377 9.17505C3.68854 10.0087 2.73073 11.0782 2.02839 12.312C0.956464 14.159=
+1 0.498905 16.2988 0.721698 18.4228C0.944492 20.5467 1.83612 22.5449 3.268 =
+24.1293C2.81966 25.4759 2.66413 26.9026 2.81182 28.3141C2.95951 29.7256 3.4=
+0701 31.0892 4.12437 32.3138C5.18791 34.1659 6.8123 35.6322 8.76321 36.5013=
+C10.7141 37.3704 12.8907 37.5973 14.9789 37.1492C15.9208 38.2107 17.0786 39=
+.0587 18.3747 39.6366C19.6709 40.2144 21.0755 40.5087 22.4946 40.4998C24.63=
+07 40.5054 26.7133 39.8321 28.4418 38.5772C30.1704 37.3223 31.4556 35.5506 =
+32.1119 33.5179C33.5027 33.2332 34.8167 32.6547 35.9659 31.821C37.115 30.98=
+74 38.0728 29.9178 38.7752 28.684C39.8458 26.8371 40.3023 24.6979 40.0789 2=
+2.5748C39.8556 20.4517 38.9639 18.4544 37.5324 16.8707ZM22.4978 37.8849C20.=
+7443 37.8874 19.0459 37.2733 17.6994 36.1501C17.7601 36.117 17.8666 36.0586=
+ 17.936 36.0161L25.9004 31.4156C26.1003 31.3019 26.2663 31.137 26.3813 30.9=
+378C26.4964 30.7386 26.5563 30.5124 26.5549 30.2825V19.0542L29.9213 20.998C=
+29.9389 21.0068 29.9541 21.0198 29.9656 21.0359C29.977 21.052 29.9842 21.07=
+07 29.9867 21.0902V30.3889C29.9842 32.375 29.1946 34.2791 27.7909 35.6841C2=
+6.3872 37.0892 24.4838 37.8806 22.4978 37.8849ZM6.39227 31.0064C5.51397 29.=
+4888 5.19742 27.7107 5.49804 25.9832C5.55718 26.0187 5.66048 26.0818 5.7346=
+1 26.1244L13.699 30.7248C13.8975 30.8408 14.1233 30.902 14.3532 30.902C14.5=
+83 30.902 14.8088 30.8408 15.0073 30.7248L24.731 25.1103V28.9979C24.7321 29=
+.0177 24.7283 29.0376 24.7199 29.0556C24.7115 29.0736 24.6988 29.0893 24.68=
+29 29.1012L16.6317 33.7497C14.9096 34.7416 12.8643 35.0097 10.9447 34.4954C=
+9.02506 33.9811 7.38785 32.7263 6.39227 31.0064ZM4.29707 13.6194C5.17156 12=
+.0998 6.55279 10.9364 8.19885 10.3327C8.19885 10.4013 8.19491 10.5228 8.194=
+91 10.6071V19.808C8.19351 20.0378 8.25334 20.2638 8.36823 20.4629C8.48312 2=
+0.6619 8.64893 20.8267 8.84863 20.9404L18.5723 26.5542L15.206 28.4979C15.18=
+94 28.5089 15.1703 28.5155 15.1505 28.5173C15.1307 28.5191 15.1107 28.516 1=
+5.0924 28.5082L7.04046 23.8557C5.32135 22.8601 4.06716 21.2235 3.55289 19.3=
+046C3.03862 17.3858 3.30624 15.3413 4.29707 13.6194ZM31.955 20.0556L22.2312=
+ 14.4411L25.5976 12.4981C25.6142 12.4872 25.6333 12.4805 25.6531 12.4787C25=
+.6729 12.4769 25.6928 12.4801 25.7111 12.4879L33.7631 17.1364C34.9967 17.84=
+9 36.0017 18.8982 36.6606 20.1613C37.3194 21.4244 37.6047 22.849 37.4832 24=
+.2684C37.3617 25.6878 36.8382 27.0432 35.9743 28.1759C35.1103 29.3086 33.94=
+15 30.1717 32.6047 30.6641C32.6047 30.5947 32.6047 30.4733 32.6047 30.3889V=
+21.188C32.6066 20.9586 32.5474 20.7328 32.4332 20.5338C32.319 20.3348 32.15=
+4 20.1698 31.955 20.0556ZM35.3055 15.0128C35.2464 14.9765 35.1431 14.9142 3=
+5.069 14.8717L27.1045 10.2712C26.906 10.1554 26.6803 10.0943 26.4504 10.094=
+3C26.2206 10.0943 25.9948 10.1554 25.7963 10.2712L16.0726 15.8858V11.9982C1=
+6.0715 11.9783 16.0753 11.9585 16.0837 11.9405C16.0921 11.9225 16.1048 11.9=
+068 16.1207 11.8949L24.1719 7.25025C25.4053 6.53903 26.8158 6.19376 28.2383=
+ 6.25482C29.6608 6.31589 31.0364 6.78077 32.2044 7.59508C33.3723 8.40939 34=
+.2842 9.53945 34.8334 10.8531C35.3826 12.1667 35.5464 13.6095 35.3055 15.01=
+28ZM14.2424 21.9419L10.8752 19.9981C10.8576 19.9893 10.8423 19.9763 10.8309=
+ 19.9602C10.8195 19.9441 10.8122 19.9254 10.8098 19.9058V10.6071C10.8107 9.=
+18295 11.2173 7.78848 11.9819 6.58696C12.7466 5.38544 13.8377 4.42659 15.12=
+75 3.82264C16.4173 3.21869 17.8524 2.99464 19.2649 3.1767C20.6775 3.35876 2=
+2.0089 3.93941 23.1034 4.85067C23.0427 4.88379 22.937 4.94215 22.8668 4.984=
+73L14.9024 9.58517C14.7025 9.69878 14.5366 9.86356 14.4215 10.0626C14.3065 =
+10.2616 14.2466 10.4877 14.2479 10.7175L14.2424 21.9419ZM16.071 17.9991L20.=
+4018 15.4978L24.7325 17.9975V22.9985L20.4018 25.4983L16.071 22.9985V17.9991=
+Z" fill=3D"currentColor"></path></svg></div></div></div></div></div><div cl=
+ass=3D"relative flex w-full flex-col lg:w-[calc(100%-115px)] agent-turn"><d=
+iv class=3D"font-semibold select-none">ChatGPT</div><div class=3D"flex-col =
+gap-1 md:gap-3"><div class=3D"flex flex-grow flex-col max-w-full"><div data=
+-message-author-role=3D"assistant" data-message-id=3D"68818649-e66b-4401-a9=
+f7-8ddc4354e95a" class=3D"min-h-[20px] text-message flex flex-col items-sta=
+rt gap-3 whitespace-pre-wrap break-words [.text-message+&amp;]:mt-5 overflo=
+w-x-auto"><div class=3D"markdown prose w-full break-words dark:prose-invert=
+ light"><p>=E3=81=AF=E3=81=84=E3=80=81Django=E3=81=AE=E3=83=A2=E3=83=87=E3=
+=83=AB=E3=82=AF=E3=82=A8=E3=83=AA=E3=82=BB=E3=83=83=E3=83=88=E3=81=AF=E8=A4=
+=87=E6=95=B0=E3=81=AE=E3=83=86=E3=83=BC=E3=83=96=E3=83=AB=E3=82=92=E5=AF=BE=
+=E8=B1=A1=E3=81=AB=E3=82=AF=E3=82=A8=E3=83=AA=E3=82=92=E5=AE=9F=E8=A1=8C=E3=
+=81=99=E3=82=8B=E9=9A=9B=E3=81=AB=E3=82=82=E6=9C=89=E5=8A=B9=E3=81=A7=E3=81=
+=99=E3=80=82Django ORM=E3=81=AF=E3=83=AA=E3=83=AC=E3=83=BC=E3=82=B7=E3=83=
+=A7=E3=83=8A=E3=83=AB=E3=83=87=E3=83=BC=E3=82=BF=E3=83=99=E3=83=BC=E3=82=B9=
+=E3=82=92=E3=82=B5=E3=83=9D=E3=83=BC=E3=83=88=E3=81=97=E3=81=A6=E3=81=8A=E3=
+=82=8A=E3=80=81=E3=83=A2=E3=83=87=E3=83=AB=E9=96=93=E3=81=AE=E3=83=AA=E3=83=
+=AC=E3=83=BC=E3=82=B7=E3=83=A7=E3=83=B3=E3=82=B7=E3=83=83=E3=83=97=E3=82=92=
+=E5=AE=9A=E7=BE=A9=E3=81=97=E3=80=81=E3=81=9D=E3=82=8C=E3=82=92=E4=BD=BF=E7=
+=94=A8=E3=81=97=E3=81=A6=E8=A4=87=E6=95=B0=E3=81=AE=E3=83=86=E3=83=BC=E3=83=
+=96=E3=83=AB=E3=81=AB=E3=81=BE=E3=81=9F=E3=81=8C=E3=82=8B=E3=82=AF=E3=82=A8=
+=E3=83=AA=E3=82=92=E6=A7=8B=E7=AF=89=E3=81=A7=E3=81=8D=E3=81=BE=E3=81=99=E3=
+=80=82</p><p>=E4=BB=A5=E4=B8=8B=E3=81=AB=E3=80=81=E8=A4=87=E6=95=B0=E3=81=
+=AE=E3=83=A2=E3=83=87=E3=83=AB=E3=82=92=E5=AF=BE=E8=B1=A1=E3=81=AB=E3=81=97=
+=E3=81=9F=E3=82=AF=E3=82=A8=E3=83=AA=E3=82=BB=E3=83=83=E3=83=88=E3=81=AE=E4=
+=BE=8B=E3=82=92=E7=A4=BA=E3=81=97=E3=81=BE=E3=81=99=E3=80=82=E4=BE=8B=E3=81=
+=A8=E3=81=97=E3=81=A6=E3=80=81<code>Author</code>=E3=81=A8<code>Book</code>=
+=E3=81=A8=E3=81=84=E3=81=862=E3=81=A4=E3=81=AE=E3=83=A2=E3=83=87=E3=83=AB=
+=E3=81=8C=E3=81=82=E3=82=8B=E3=81=A8=E4=BB=AE=E5=AE=9A=E3=81=97=E3=81=BE=E3=
+=81=99=E3=80=82</p><pre><div class=3D"bg-black rounded-md"><div class=3D"fl=
+ex items-center relative text-gray-200 bg-gray-800 dark:bg-token-surface-pr=
+imary px-4 py-2 text-xs font-sans justify-between rounded-t-md"><span>pytho=
+n</span><button class=3D"flex gap-1 items-center"><svg width=3D"24" height=
+=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" xmlns=3D"http://www.w3.org/2000=
+/svg" class=3D"icon-sm"><path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=
+=3D"M12 4C10.8954 4 10 4.89543 10 6H14C14 4.89543 13.1046 4 12 4ZM8.53513 4=
+C9.22675 2.8044 10.5194 2 12 2C13.4806 2 14.7733 2.8044 15.4649 4H17C18.656=
+9 4 20 5.34315 20 7V19C20 20.6569 18.6569 22 17 22H7C5.34315 22 4 20.6569 4=
+ 19V7C4 5.34315 5.34315 4 7 4H8.53513ZM8 6H7C6.44772 6 6 6.44772 6 7V19C6 1=
+9.5523 6.44772 20 7 20H17C17.5523 20 18 19.5523 18 19V7C18 6.44772 17.5523 =
+6 17 6H16C16 7.10457 15.1046 8 14 8H10C8.89543 8 8 7.10457 8 6Z" fill=3D"cu=
+rrentColor"></path></svg>Copy code</button></div><div class=3D"p-4 overflow=
+-y-auto"><code class=3D"!whitespace-pre hljs language-python"><span class=
+=3D"hljs-comment"># models.py</span>
+<span class=3D"hljs-keyword">from</span> django.db <span class=3D"hljs-keyw=
+ord">import</span> models
+
+<span class=3D"hljs-keyword">class</span> <span class=3D"hljs-title class_"=
+>Author</span>(models.Model):
+    name =3D models.CharField(max_length=3D<span class=3D"hljs-number">255<=
+/span>)
+
+<span class=3D"hljs-keyword">class</span> <span class=3D"hljs-title class_"=
+>Book</span>(models.Model):
+    title =3D models.CharField(max_length=3D<span class=3D"hljs-number">255=
+</span>)
+    author =3D models.ForeignKey(Author, on_delete=3Dmodels.CASCADE)
+    publication_year =3D models.IntegerField()
+</code></div></div></pre><p>=E4=BE=8B=E3=81=88=E3=81=B0=E3=80=81=E7=89=B9=
+=E5=AE=9A=E3=81=AE=E5=B9=B4=E3=81=AB=E5=87=BA=E7=89=88=E3=81=95=E3=82=8C=E3=
+=81=9F=E6=9C=AC=E3=81=AE=E8=91=97=E8=80=85=E3=82=92=E5=8F=96=E5=BE=97=E3=81=
+=99=E3=82=8B=E3=82=AF=E3=82=A8=E3=83=AA=E3=82=92=E6=A4=9C=E8=A8=8E=E3=81=97=
+=E3=81=A6=E3=81=BF=E3=81=BE=E3=81=97=E3=82=87=E3=81=86=E3=80=82</p><pre><di=
+v class=3D"bg-black rounded-md"><div class=3D"flex items-center relative te=
+xt-gray-200 bg-gray-800 dark:bg-token-surface-primary px-4 py-2 text-xs fon=
+t-sans justify-between rounded-t-md"><span>python</span><button class=3D"fl=
+ex gap-1 items-center"><svg width=3D"24" height=3D"24" viewBox=3D"0 0 24 24=
+" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg" class=3D"icon-sm"><pat=
+h fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M12 4C10.8954 4 10 4.895=
+43 10 6H14C14 4.89543 13.1046 4 12 4ZM8.53513 4C9.22675 2.8044 10.5194 2 12=
+ 2C13.4806 2 14.7733 2.8044 15.4649 4H17C18.6569 4 20 5.34315 20 7V19C20 20=
+.6569 18.6569 22 17 22H7C5.34315 22 4 20.6569 4 19V7C4 5.34315 5.34315 4 7 =
+4H8.53513ZM8 6H7C6.44772 6 6 6.44772 6 7V19C6 19.5523 6.44772 20 7 20H17C17=
+.5523 20 18 19.5523 18 19V7C18 6.44772 17.5523 6 17 6H16C16 7.10457 15.1046=
+ 8 14 8H10C8.89543 8 8 7.10457 8 6Z" fill=3D"currentColor"></path></svg>Cop=
+y code</button></div><div class=3D"p-4 overflow-y-auto"><code class=3D"!whi=
+tespace-pre hljs language-python"><span class=3D"hljs-comment"># views.py</=
+span>
+<span class=3D"hljs-keyword">from</span> myapp.models <span class=3D"hljs-k=
+eyword">import</span> Author, Book
+
+<span class=3D"hljs-keyword">def</span> <span class=3D"hljs-title function_=
+">get_authors_of_books_published_in_year</span>(<span class=3D"hljs-params"=
+>year</span>):
+    authors =3D Author.objects.<span class=3D"hljs-built_in">filter</span>(=
+book__publication_year=3Dyear).distinct()
+    <span class=3D"hljs-keyword">return</span> authors
+</code></div></div></pre><p>=E3=81=93=E3=81=AE=E4=BE=8B=E3=81=A7=E3=81=AF=
+=E3=80=81<code>Author</code>=E3=83=A2=E3=83=87=E3=83=AB=E3=81=AB=E5=AF=BE=
+=E3=81=97=E3=81=A6<code>Book</code>=E3=83=A2=E3=83=87=E3=83=AB=E3=82=92=E4=
+=BB=8B=E3=81=97=E3=81=A6=E3=82=AF=E3=82=A8=E3=83=AA=E3=82=92=E5=AE=9F=E8=A1=
+=8C=E3=81=97=E3=81=A6=E3=81=84=E3=81=BE=E3=81=99=E3=80=82<code>book__public=
+ation_year</code>=E3=81=AE=E3=82=88=E3=81=86=E3=81=AB=E3=80=81=E3=83=AA=E3=
+=83=AC=E3=83=BC=E3=82=B7=E3=83=A7=E3=83=B3=E3=82=92=E4=BB=8B=E3=81=97=E3=81=
+=A6=E4=BB=96=E3=81=AE=E3=83=A2=E3=83=87=E3=83=AB=E3=81=AE=E3=83=95=E3=82=A3=
+=E3=83=BC=E3=83=AB=E3=83=89=E3=81=AB=E3=82=A2=E3=82=AF=E3=82=BB=E3=82=B9=E3=
+=81=A7=E3=81=8D=E3=81=BE=E3=81=99=E3=80=82=E3=81=9D=E3=81=97=E3=81=A6=E3=80=
+=81<code>distinct()</code>=E3=82=92=E4=BD=BF=E7=94=A8=E3=81=97=E3=81=A6=E8=
+=91=97=E8=80=85=E3=81=AE=E9=87=8D=E8=A4=87=E3=82=92=E9=81=BF=E3=81=91=E3=81=
+=A6=E3=81=84=E3=81=BE=E3=81=99=E3=80=82</p><p>=E3=81=93=E3=81=AE=E3=82=88=
+=E3=81=86=E3=81=AB=E3=81=97=E3=81=A6=E3=80=81Django=E3=81=AE=E3=83=A2=E3=83=
+=87=E3=83=AB=E3=82=AF=E3=82=A8=E3=83=AA=E3=82=BB=E3=83=83=E3=83=88=E3=82=92=
+=E4=BD=BF=E7=94=A8=E3=81=99=E3=82=8B=E3=81=93=E3=81=A8=E3=81=A7=E3=80=81=E8=
+=A4=87=E6=95=B0=E3=81=AE=E3=83=86=E3=83=BC=E3=83=96=E3=83=AB=E3=82=92=E5=AF=
+=BE=E8=B1=A1=E3=81=AB=E3=81=97=E3=81=9F=E3=82=AF=E3=82=A8=E3=83=AA=E3=82=92=
+=E6=AF=94=E8=BC=83=E7=9A=84=E7=B0=A1=E5=8D=98=E3=81=AB=E6=A7=8B=E7=AF=89=E3=
+=81=A7=E3=81=8D=E3=81=BE=E3=81=99=E3=80=82</p></div></div></div><div class=
+=3D"mt-1 flex justify-start gap-3 empty:hidden"><div class=3D"text-gray-400=
+ flex self-end lg:self-center justify-center lg:justify-start mt-0 gap-1 vi=
+sible"><button class=3D"flex items-center gap-1.5 rounded-md p-1 pl-0 text-=
+xs hover:text-gray-950 dark:text-gray-400 dark:hover:text-gray-200 disabled=
+:dark:hover:text-gray-400 md:invisible md:group-hover:visible md:group-[.fi=
+nal-completion]:visible"><svg width=3D"24" height=3D"24" viewBox=3D"0 0 24 =
+24" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg" class=3D"icon-md"><p=
+ath fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M12 4C10.8954 4 10 4.8=
+9543 10 6H14C14 4.89543 13.1046 4 12 4ZM8.53513 4C9.22675 2.8044 10.5194 2 =
+12 2C13.4806 2 14.7733 2.8044 15.4649 4H17C18.6569 4 20 5.34315 20 7V19C20 =
+20.6569 18.6569 22 17 22H7C5.34315 22 4 20.6569 4 19V7C4 5.34315 5.34315 4 =
+7 4H8.53513ZM8 6H7C6.44772 6 6 6.44772 6 7V19C6 19.5523 6.44772 20 7 20H17C=
+17.5523 20 18 19.5523 18 19V7C18 6.44772 17.5523 6 17 6H16C16 7.10457 15.10=
+46 8 14 8H10C8.89543 8 8 7.10457 8 6Z" fill=3D"currentColor"></path></svg><=
+/button><div class=3D"flex gap-1"><button class=3D"p-1 pl-0 rounded-md disa=
+bled:dark:hover:text-gray-400 dark:hover:text-gray-200 dark:text-gray-400 t=
+ext-gray-400 hover:text-gray-950 md:invisible md:group-hover:visible md:gro=
+up-[.final-completion]:visible"><svg width=3D"24" height=3D"24" viewBox=3D"=
+0 0 24 24" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg" class=3D"icon=
+-md"><path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M12.1318 2.5038=
+9C12.3321 2.15338 12.7235 1.95768 13.124 2.00775L13.5778 2.06447C16.0449 2.=
+37286 17.636 4.83353 16.9048 7.20993L16.354 8.99999H17.0722C19.7097 8.99999=
+ 21.6253 11.5079 20.9313 14.0525L19.5677 19.0525C19.0931 20.7927 17.5124 22=
+ 15.7086 22H6C4.34315 22 3 20.6568 3 19V12C3 10.3431 4.34315 8.99999 6 8.99=
+999H8C8.25952 8.99999 8.49914 8.86094 8.6279 8.63561L12.1318 2.50389ZM10 20=
+H15.7086C16.6105 20 17.4008 19.3964 17.6381 18.5262L19.0018 13.5262C19.3488=
+ 12.2539 18.391 11 17.0722 11H15C14.6827 11 14.3841 10.8494 14.1956 10.5941=
+C14.0071 10.3388 13.9509 10.0092 14.0442 9.70591L14.9932 6.62175C15.3384 5.=
+49984 14.6484 4.34036 13.5319 4.08468L10.3644 9.62789C10.0522 10.1742 9.566=
+91 10.5859 9 10.8098V19C9 19.5523 9.44772 20 10 20ZM7 11V19C7 19.3506 7.060=
+15 19.6872 7.17071 20H6C5.44772 20 5 19.5523 5 19V12C5 11.4477 5.44772 11 6=
+ 11H7Z" fill=3D"currentColor"></path></svg></button><button class=3D"p-1 pl=
+-0 rounded-md disabled:dark:hover:text-gray-400 dark:hover:text-gray-200 da=
+rk:text-gray-400 text-gray-400 hover:text-gray-950 md:invisible md:group-ho=
+ver:visible md:group-[.final-completion]:visible"><svg width=3D"24" height=
+=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" xmlns=3D"http://www.w3.org/2000=
+/svg" class=3D"icon-md"><path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=
+=3D"M11.8727 21.4961C11.6725 21.8466 11.2811 22.0423 10.8805 21.9922L10.426=
+7 21.9355C7.95958 21.6271 6.36855 19.1665 7.09975 16.7901L7.65054 15H6.9322=
+6C4.29476 15 2.37923 12.4921 3.0732 9.94753L4.43684 4.94753C4.91145 3.20728=
+ 6.49209 2 8.29589 2H18.0045C19.6614 2 21.0045 3.34315 21.0045 5V12C21.0045=
+ 13.6569 19.6614 15 18.0045 15H16.0045C15.745 15 15.5054 15.1391 15.3766 15=
+.3644L11.8727 21.4961ZM14.0045 4H8.29589C7.39399 4 6.60367 4.60364 6.36637 =
+5.47376L5.00273 10.4738C4.65574 11.746 5.61351 13 6.93226 13H9.00451C9.3218=
+5 13 9.62036 13.1506 9.8089 13.4059C9.99743 13.6612 10.0536 13.9908 9.96028=
+ 14.2941L9.01131 17.3782C8.6661 18.5002 9.35608 19.6596 10.4726 19.9153L13.=
+6401 14.3721C13.9523 13.8258 14.4376 13.4141 15.0045 13.1902V5C15.0045 4.44=
+772 14.5568 4 14.0045 4ZM17.0045 13V5C17.0045 4.64937 16.9444 4.31278 16.83=
+38 4H18.0045C18.5568 4 19.0045 4.44772 19.0045 5V12C19.0045 12.5523 18.5568=
+ 13 18.0045 13H17.0045Z" fill=3D"currentColor"></path></svg></button></div>=
+<button class=3D"p-1 pl-0 rounded-md disabled:dark:hover:text-gray-400 dark=
+:hover:text-gray-200 dark:text-gray-400 text-gray-400 hover:text-gray-950 m=
+d:invisible md:group-hover:visible md:group-[.final-completion]:visible"><d=
+iv class=3D"flex items-center gap-1.5 text-xs"><svg width=3D"24" height=3D"=
+24" viewBox=3D"0 0 24 24" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg=
+" class=3D"icon-md"><path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"=
+M4.5 2.5C5.05228 2.5 5.5 2.94772 5.5 3.5V5.07196C7.19872 3.47759 9.48483 2.=
+5 12 2.5C17.2467 2.5 21.5 6.75329 21.5 12C21.5 17.2467 17.2467 21.5 12 21.5=
+C7.1307 21.5 3.11828 17.8375 2.565 13.1164C2.50071 12.5679 2.89327 12.0711 =
+3.4418 12.0068C3.99033 11.9425 4.48712 12.3351 4.5514 12.8836C4.98798 16.60=
+89 8.15708 19.5 12 19.5C16.1421 19.5 19.5 16.1421 19.5 12C19.5 7.85786 16.1=
+421 4.5 12 4.5C9.7796 4.5 7.7836 5.46469 6.40954 7H9C9.55228 7 10 7.44772 1=
+0 8C10 8.55228 9.55228 9 9 9H4.5C3.96064 9 3.52101 8.57299 3.50073 8.03859C=
+3.49983 8.01771 3.49958 7.99677 3.5 7.9758V3.5C3.5 2.94772 3.94771 2.5 4.5 =
+2.5Z" fill=3D"currentColor"></path></svg></div></button></div></div></div><=
+/div></div></div></div></div></div></div></div><div class=3D"w-full pt-2 md=
+:pt-0 dark:border-white/20 md:border-transparent md:dark:border-transparent=
+ md:w-[calc(100%-.5rem)]"><form class=3D"stretch mx-2 flex flex-row gap-3 l=
+ast:mb-2 md:mx-4 md:last:mb-6 lg:mx-auto lg:max-w-2xl xl:max-w-3xl"><div cl=
+ass=3D"relative flex h-full flex-1 items-stretch md:flex-col"><div class=3D=
+"flex w-full items-center"><div class=3D"overflow-hidden [&amp;:has(textare=
+a:focus)]:border-token-border-xheavy [&amp;:has(textarea:focus)]:shadow-[0_=
+2px_6px_rgba(0,0,0,.05)] flex flex-col w-full dark:border-token-border-heav=
+y flex-grow relative border border-token-border-heavy dark:text-white round=
+ed-2xl bg-white dark:bg-gray-800 shadow-[0_0_0_2px_rgba(255,255,255,0.95)] =
+dark:shadow-[0_0_0_2px_rgba(52,53,65,0.95)]"><textarea id=3D"prompt-textare=
+a" tabindex=3D"0" data-id=3D"request-NEW:0-8" rows=3D"1" placeholder=3D"Mes=
+sage ChatGPT=E2=80=A6" class=3D"m-0 w-full resize-none border-0 bg-transpar=
+ent py-[10px] pr-10 focus:ring-0 focus-visible:ring-0 dark:bg-transparent m=
+d:py-3.5 md:pr-12 placeholder-black/50 dark:placeholder-white/50 pl-3 md:pl=
+-4" style=3D"max-height: 200px; height: 52px; overflow-y: hidden;"></textar=
+ea><button disabled=3D"" class=3D"absolute md:bottom-3 md:right-3 dark:hove=
+r:bg-gray-900 dark:disabled:hover:bg-transparent right-2 dark:disabled:bg-w=
+hite disabled:bg-black disabled:opacity-10 disabled:text-gray-400 enabled:b=
+g-black text-white p-0.5 border border-black rounded-lg dark:border-white d=
+ark:bg-white bottom-1.5 transition-colors" data-testid=3D"send-button"><spa=
+n class=3D"" data-state=3D"closed"><svg width=3D"24" height=3D"24" viewBox=
+=3D"0 0 24 24" fill=3D"none" class=3D"text-white dark:text-black"><path d=
+=3D"M7 11L12 6L17 11M12 18V7" stroke=3D"currentColor" stroke-width=3D"2" st=
+roke-linecap=3D"round" stroke-linejoin=3D"round"></path></svg></span></butt=
+on></div></div></div></form><div class=3D"relative px-2 py-2 text-center te=
+xt-xs text-gray-600 dark:text-gray-300 md:px-[60px]"><span>ChatGPT can make=
+ mistakes. Consider checking important information.</span></div></div></div=
+><div class=3D"group fixed bottom-3 right-3 z-10 hidden gap-1 lg:flex"><div=
+ class=3D"group relative" data-headlessui-state=3D""><button class=3D"flex =
+items-center justify-center rounded-full border border-gray-200 bg-gray-50 =
+text-gray-600 dark:border-white/10 dark:bg-white/10 dark:text-gray-200" id=
+=3D"headlessui-menu-button-:R1kjapdm:" type=3D"button" aria-haspopup=3D"tru=
+e" aria-expanded=3D"false" data-headlessui-state=3D""><div class=3D"flex h-=
+6 w-6 items-center justify-center text-xs">?</div></button></div></div></ma=
+in></div></div><div class=3D"absolute left-0 right-0 top-0 z-[2]"></div></d=
+iv><next-route-announcer><p aria-live=3D"assertive" id=3D"__next-route-anno=
+uncer__" role=3D"alert" style=3D"border: 0px; clip: rect(0px, 0px, 0px, 0px=
+); height: 1px; margin: -1px; overflow: hidden; padding: 0px; position: abs=
+olute; top: 0px; width: 1px; white-space: nowrap; overflow-wrap: normal;">C=
+hatGPT</p></next-route-announcer><div portal-container=3D""><span class=3D"=
+pointer-events-none fixed inset-0 z-[60] mx-auto my-2 flex max-w-[560px] fl=
+ex-col items-stretch justify-start md:pb-5"></span></div><iframe id=3D"inte=
+rcom-frame" style=3D"position: absolute !important; opacity: 0 !important; =
+width: 1px !important; height: 1px !important; top: 0 !important; left: 0 !=
+important; border: none !important; display: block !important; z-index: -1 =
+!important; pointer-events: none;" aria-hidden=3D"true" tabindex=3D"-1" tit=
+le=3D"Intercom"></iframe><div class=3D"intercom-lightweight-app"></div></bo=
+dy></html>
+------MultipartBoundary--eFEfUYfEWSnpDmEc0LpdXlvSP2HGY5AkULjQpQpsjd----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-662e3259-bcc8-46ea-9e21-2134b9cd5b4a@mhtml.blink
+Content-Location: cid:css-6625d0d7-0ee3-46a7-bb14-04de1f5d4aa5@mhtml.blink
 
 @charset "utf-8";
 
@@ -2605,10 +2870,10 @@ idth: 100% !important; height: 100% !important; }
 
 .r34K7X1zGgAi6DllVF3T.active.show.inline { position: static; left: 0px; top=
 : 0px; }
-------MultipartBoundary--wePgIKcddw5bpUbjJGB5NNEFX7f5u3NkqozclNLgtx----
+------MultipartBoundary--eFEfUYfEWSnpDmEc0LpdXlvSP2HGY5AkULjQpQpsjd----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-7dc6adc2-5d17-4bbb-8700-03833dc13457@mhtml.blink
+Content-Location: cid:css-d45613e6-d880-4d62-ac25-068449afbabb@mhtml.blink
 
 @charset "utf-8";
 
@@ -2630,10 +2895,10 @@ idth: 100% !important; height: 100% !important; }
 
 .r34K7X1zGgAi6DllVF3T.active.show.inline { position: static; left: 0px; top=
 : 0px; }
-------MultipartBoundary--wePgIKcddw5bpUbjJGB5NNEFX7f5u3NkqozclNLgtx----
+------MultipartBoundary--eFEfUYfEWSnpDmEc0LpdXlvSP2HGY5AkULjQpQpsjd----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-d9922eee-b962-4a9f-aea9-6db7a5aa943f@mhtml.blink
+Content-Location: cid:css-b97bf5f5-dda9-4977-b0a8-edf768988e26@mhtml.blink
 
 @charset "utf-8";
 
@@ -2652,10 +2917,10 @@ r; height: 20px; outline: 0px; position: absolute; right: 20px; width: 20px=
 
 .react-scroll-to-bottom--css-rgmzi-1tj0vk3:active { background-color: rgba(=
 0, 0, 0, 0.6); }
-------MultipartBoundary--wePgIKcddw5bpUbjJGB5NNEFX7f5u3NkqozclNLgtx----
+------MultipartBoundary--eFEfUYfEWSnpDmEc0LpdXlvSP2HGY5AkULjQpQpsjd----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-2827a264-ed73-4e3f-8c15-d9541e26857d@mhtml.blink
+Content-Location: cid:css-bd58fc3c-0c9e-4807-b766-09433d94c868@mhtml.blink
 
 @charset "utf-8";
 
@@ -2750,7 +3015,7 @@ w: rgba(0, 0, 0, 0.05) 0px 0px 25px; }
 @media print {
   .intercom-lightweight-app { display: none; }
 }
-------MultipartBoundary--wePgIKcddw5bpUbjJGB5NNEFX7f5u3NkqozclNLgtx----
+------MultipartBoundary--eFEfUYfEWSnpDmEc0LpdXlvSP2HGY5AkULjQpQpsjd----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://cdn.oaistatic.com/_next/static/css/8e56b74d41e9fdcb.css
@@ -8568,7 +8833,7 @@ sparent; margin: 0px; }
 .react-select-container .react-select__multi-value__label { padding: 0px; }
 
 #intercom-container { display: none; }
-------MultipartBoundary--wePgIKcddw5bpUbjJGB5NNEFX7f5u3NkqozclNLgtx----
+------MultipartBoundary--eFEfUYfEWSnpDmEc0LpdXlvSP2HGY5AkULjQpQpsjd----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://lh3.googleusercontent.com/a/AAcHTteTMAGgYd-nuFul66FlTUGi1DQdZf2JfphJ-jPFFP3H=s96-c
@@ -8634,7 +8899,7 @@ weu7jv5hl9uzr6jgwkbh9UeEoP9FV2ToPwPGQAvCQAvCQAvCQAvCQAvCQAvCQAvCQAvCQAvCQAvC
 QAvCQAvCQAvCQAvCQAvCQAvCQAvCQAvCQAvCQAvCQAvCQAvCQAvCQAvCQAvCQAvCQAvC8D//h6e8
 NwHkUwAAAABJRU5ErkJggg==
 
-------MultipartBoundary--wePgIKcddw5bpUbjJGB5NNEFX7f5u3NkqozclNLgtx----
+------MultipartBoundary--eFEfUYfEWSnpDmEc0LpdXlvSP2HGY5AkULjQpQpsjd----
 Content-Type: text/html
 Content-ID: <frame-97F3CF67267E3586A2A799DAB52B032F@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
@@ -8646,4 +8911,4 @@ tml; charset=3DUTF-8">
       <body>
      =20
     </body></html>
-------MultipartBoundary--wePgIKcddw5bpUbjJGB5NNEFX7f5u3NkqozclNLgtx------
+------MultipartBoundary--eFEfUYfEWSnpDmEc0LpdXlvSP2HGY5AkULjQpQpsjd------
