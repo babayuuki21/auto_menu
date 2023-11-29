@@ -1,6 +1,6 @@
 from django.shortcuts import render, redirect
 from django.http import Http404
-from .models import Menu, FoodIngredient
+from .models import Menu, Ingredient, MenuIngredient, CodeValue
 import random
 
 def random_menu(request):
