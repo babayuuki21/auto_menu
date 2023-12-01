@@ -14,7 +14,7 @@ def manage_menus(request):
     return render(request, 'menu_app/manage_menus.html', {'menus': menus})
 
 def manage_ingredients(request):
-    ingredients = FoodIngredient.objects.all()
+    ingredients = Ingredient.objects.all()
     return render(request, 'menu_app/manage_ingredients.html', {'ingredients': ingredients})
 
 def add_menu(request):
