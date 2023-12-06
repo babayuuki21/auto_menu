@@ -75,7 +75,7 @@ class AuthUserUserPermissions(models.Model):
 
 
 class CodeValue(models.Model):
-    code = models.TextField(primary_key=True, blank=True, null=True)
+    code = models.TextField(primary_key=True, blank=True, null=False)
     name = models.TextField()
 
     class Meta:
@@ -128,7 +128,7 @@ class DjangoSession(models.Model):
 
 
 class Ingredient(models.Model):
-    ingredient_id = models.AutoField(primary_key=True, blank=True, null=True)
+    ingredient_id = models.AutoField(primary_key=True, blank=True, null=False)
     ingredient_name = models.TextField()
     ingredient_category_code = models.TextField()
     allergen_level = models.IntegerField()
@@ -139,7 +139,7 @@ class Ingredient(models.Model):
 
 
 class Menu(models.Model):
-    menu_id = models.AutoField(primary_key=True, blank=True, null=True)
+    menu_id = models.AutoField(primary_key=True, blank=True, null=False)
     menu_name = models.TextField()
     menu_category_code = models.TextField()
     cooking_time = models.IntegerField(blank=True, null=True)
@@ -150,7 +150,7 @@ class Menu(models.Model):
 
 
 class MenuIngredient(models.Model):
-    menu = models.OneToOneField(Menu, models.DO_NOTHING, primary_key=True, blank=True, null=True)  # The composite primary key (menu_id, ingredient_id) found, that is not supported. The first column is selected.
+    menu = models.OneToOneField(Menu, models.DO_NOTHING, primary_key=True, blank=True, null=False)  # The composite primary key (menu_id, ingredient_id) found, that is not supported. The first column is selected.
     ingredient = models.ForeignKey(Ingredient, models.DO_NOTHING, blank=True, null=True)
 
     class Meta:

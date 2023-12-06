@@ -3,6 +3,9 @@ from django.http import Http404
 from .models import Menu, Ingredient, MenuIngredient, CodeValue
 import random
 
+def index(request):
+    return render(request, 'menu_app/index.html')
+
 def random_menu(request):
     menus = Menu.objects.all()
     random_menu = random.choice(menus)
