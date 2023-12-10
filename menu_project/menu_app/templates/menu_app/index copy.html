@@ -1,0 +1,64 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auto Menu App</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+
+<body>
+    <header>
+        <h1>Auto Menu App</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>Welcome to our app!</h2>
+            <p>This is a simple Django app.</p>
+        </section>
+    </main>
+
+    <div class="form-group">
+        <label for="username">Username:</label>
+        <input type="text" id="username" name="username" placeholder="Enter your username">
+    </div>
+
+    <div class="form-group">
+        <label for="password">Password:</label>
+        <input type="password" id="password" name="password" placeholder="Enter your password">
+    </div>
+
+    <div class="form-group">
+        <label for="gender">Gender:</label>
+        <select id="gender" name="gender">
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+            <option value="other">Other</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label>Choose your role:</label>
+        <input type="radio" id="admin" name="role" value="admin">
+        <label for="admin">Admin</label>
+        <input type="radio" id="user" name="role" value="user">
+        <label for="user">User</label>
+    </div>
+
+    <div class="form-group">
+        <input type="checkbox" id="subscribe" name="subscribe">
+        <label for="subscribe">Subscribe to newsletter</label>
+    </div>
+
+    <button type="submit">Submit</button>
+    <footer>
+        <p>&copy; 2023 Auto Menu App. All rights reserved.</p>
+    </footer>
+</body>
+
+</html>
