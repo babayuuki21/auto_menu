@@ -29,15 +29,15 @@
                 <h2 class="heading">ABOUT US</h2>
                 <div class="list">
                     <div class="list-item">
-                        <a href=""><img src="{% static 'image/chef.jpeg' %}" class="image"></a>
+                        <a href="{% url 'manage_ingredients' %}"><img src="{% static 'image/chef.jpeg' %}" class="image"></a>
                         <div class="text">献立表示</div>
                     </div>
                     <div class="list-item">
-                        <a href=""><img src="{% static 'image/menu.jpeg' %}" class="image"></a>
+                        <a href="{% url 'manage_ingredients' %}"><img src="{% static 'image/menu.jpeg' %}" class="image"></a>
                         <div class="text">メニュー管理</div>
-                    </div>    
+                    </div>
                     <div class="list-item">
-                        <a href=""><img src="{% static 'image/food.jpeg' %}" class="image"></a>
+                        <a href="{% url 'manage_ingredients' %}"><img src="{% static 'image/food.jpeg' %}" class="image"></a>
                         <div class="text">食材管理</div>
                     </div>
                 </div>

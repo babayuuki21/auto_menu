@@ -4,11 +4,27 @@
     <title>Manage Ingredients</title>
 </head>
 <body>
-    <h1>Manage Ingredients</h1>
-    <ul>
-        {% for ingredient in ingredients %}
-            <li>{{ ingredient.name }} - <a href="#">Edit</a></li>
-        {% endfor %}
-    </ul>
+    <h1>食材一覧</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>食材名</th>
+                <th>カテゴリー</th>
+                <th>アレルギーレベル</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for ingredient in ingredients %}
+            <tr>
+                <td>{{ ingredient.id }}</td>
+                <td>{{ ingredient.name }}</td>
+                <td>{{ ingredient.category }}</td>
+                <td>{{ ingredient.allergen_level }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
 </body>
 </html>

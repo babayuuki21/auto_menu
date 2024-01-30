@@ -3,22 +3,29 @@ from django.http import Http404
 from .models import Menu, Ingredient, MenuIngredient, CodeValue
 import random
 
+# トップ画面表示
 def index(request):
     return render(request, 'menu_app/index.html')
 
+# ランダムメニュー画面表示
 def random_menu(request):
     menus = Menu.objects.all()
     random_menu = random.choice(menus)
     ingredients = random_menu.ingredients.all()
     return render(request, 'menu_app/random_menu.html', {'menu': random_menu, 'ingredients': ingredients})
 
+# メニュー管理画面表示
 def manage_menus(request):
     menus = Menu.objects.all()
     return render(request, 'menu_app/manage_menus.html', {'menus': menus})
 
+# 食材管理画面表示
 def manage_ingredients(request):
-    ingredients = Ingredient.objects.all()
+    ingredients = Ingredient.objects.all()  # 食材データを取得
     return render(request, 'menu_app/manage_ingredients.html', {'ingredients': ingredients})
+
+
+
 
 def add_menu(request):
     # 既存のメニューを取得

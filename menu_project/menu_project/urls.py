@@ -7,9 +7,9 @@ from django.conf.urls.static import static
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', index, name='index'),
-    path('', random_menu, name='random_menu'),
-    path('', manage_menus, name='manage_menus'),
-    path('', manage_ingredients, name='manage_ingredients'),
+    path('random_menu/', random_menu, name='random_menu'),
+    path('manage_menus/', manage_menus, name='manage_menus'),
+    path('manage_ingredients/', manage_ingredients, name='manage_ingredients'),
     path('', delete_menu, name='delete_menu'),
 ]
 
