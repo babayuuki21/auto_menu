@@ -1,5 +1,6 @@
 from django.shortcuts import render, redirect
 from django.http import Http404
+from django.db import connection
 from .models import Menu, Ingredient, MenuIngredient, CodeValue
 import random
 
@@ -24,6 +25,11 @@ def manage_ingredients(request):
     ingredients = Ingredient.objects.all()  # 食材データを取得
     return render(request, 'menu_app/manage_ingredients.html', {'ingredients': ingredients})
 
+def custom_query_sample():
+    with connection.cursor() as cursor:
+        cursor.execute("SELECT * FROM your_table WHERE some_condition;")
+        result = cursor.fetchall()
+        return result
 
 
 

@@ -18,9 +18,9 @@
         <tbody>
             {% for ingredient in ingredients %}
             <tr>
-                <td>{{ ingredient.id }}</td>
-                <td>{{ ingredient.name }}</td>
-                <td>{{ ingredient.category }}</td>
+                <td>{{ ingredient.ingredient_id }}</td>
+                <td>{{ ingredient.ingredient_name }}</td>
+                <td>{{ ingredient.ingredient_category_code }}</td>
                 <td>{{ ingredient.allergen_level }}</td>
             </tr>
             {% endfor %}

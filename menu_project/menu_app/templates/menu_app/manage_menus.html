@@ -4,11 +4,27 @@
     <title>Manage Menus</title>
 </head>
 <body>
-    <h1>Manage Menus</h1>
-    <ul>
-        {% for menu in menus %}
-            <li>{{ menu.name }} - <a href="#">Edit</a></li>
-        {% endfor %}
-    </ul>
+    <h1>メニュー一覧</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>メニュー名</th>
+                <th>カテゴリー</th>
+                <th>調理時間</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for menu in menus %}
+            <tr>
+                <td>{{ menu.menu_id }}</td>
+                <td>{{ menu.menu_name }}</td>
+                <td>{{ menu.menu_category_code }}</td>
+                <td>{{ menu.cooking_time }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
 </body>
 </html>
