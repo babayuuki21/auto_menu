@@ -4,13 +4,27 @@
     <title>Random Menu</title>
 </head>
 <body>
-    <h1>Random Menu</h1>
-    <p>Name: {{ menu.name }}</p>
-    <p>Ingredients:</p>
-    <ul>
-        {% for ingredient in ingredients %}
-            <li>{{ ingredient.name }}</li>
-        {% endfor %}
-    </ul>
+    <h1>献立表示</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>食材名</th>
+                <th>カテゴリー</th>
+                <th>アレルギーレベル</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for ingredient in ingredients %}
+            <tr>
+                <td>{{ ingredient.ingredient_id }}</td>
+                <td>{{ ingredient.ingredient_name }}</td>
+                <td>{{ ingredient.ingredient_category_code }}</td>
+                <td>{{ ingredient.allergen_level }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
 </body>
 </html>

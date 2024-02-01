@@ -9,19 +9,17 @@
     <table>
         <thead>
             <tr>
-                <th>ID</th>
                 <th>メニュー名</th>
-                <th>カテゴリー</th>
                 <th>調理時間</th>
+                <th>カテゴリー</th>
             </tr>
         </thead>
         <tbody>
             {% for menu in menus %}
             <tr>
-                <td>{{ menu.menu_id }}</td>
-                <td>{{ menu.menu_name }}</td>
-                <td>{{ menu.menu_category_code }}</td>
+                <td>{{ menu }}</td>
                 <td>{{ menu.cooking_time }}</td>
+                <td>{{ menu.name }}</td>
             </tr>
             {% endfor %}
         </tbody>
