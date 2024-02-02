@@ -17,9 +17,9 @@
     <section class="wrapper">
         <div class="container">
             <div class="content">
-                <h2 class="heading">ランダム表示</h2>
                 <div class="list">
                     <div class="list-item">
+                        <h2 class="heading">主菜</h2>
                         <a href="{% url 'manage_menus' %}"><img src="{% static 'image/menu.jpeg' %}" class="image"></a>
                         {% if main.menu_name %}
                         <div class="text">{{main.menu_name}}</div>
@@ -28,6 +28,7 @@
                         {% endif %}
                     </div>
                     <div class="list-item">
+                        <h2 class="heading">副菜</h2>
                         <a href="{% url 'manage_ingredients' %}"><img src="{% static 'image/food.jpeg' %}" class="image"></a>
                         {% if sub.menu_name %}
                         <div class="text">{{sub.menu_name}}</div>
