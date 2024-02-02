@@ -1,7 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="ja">
+
 <head>
-    <title>Manage Menus</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Manage menu</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
 </head>
 <body>
     <h1>メニュー一覧</h1>
@@ -12,6 +17,7 @@
                 <th>メニュー名</th>
                 <th>調理時間</th>
                 <th>カテゴリー</th>
+                <th>操作</th>
             </tr>
         </thead>
         <tbody>
@@ -20,10 +26,14 @@
                 <td>{{ menu.menu_name }}</td>
                 <td>{{ menu.cooking_time }}分</td>
                 <td>{{ menu.menu_category_code }}</td>
-                <td><button type="submit">編集</button></td>
+                <td><form method="post" action="{% url 'edit_menu' menu.menu_id %}">
+                    {% csrf_token %}
+                    <button type="submit">編集</button>
+                </form></td>
             </tr>
             {% endfor %}
         </tbody>
     </table>
+    <a href="{% url 'index' %}">トップ画面に戻る</a>
 </body>
 </html>

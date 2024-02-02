@@ -11,7 +11,6 @@
             <tr>
                 <th>ID</th>
                 <th>食材名</th>
-                <th>カテゴリー</th>
                 <th>アレルギー</th>
             </tr>
         </thead>
@@ -20,11 +19,11 @@
             <tr>
                 <td>{{ ingredient.ingredient_id }}</td>
                 <td>{{ ingredient.ingredient_name }}</td>
-                <td>{{ ingredient.ingredient_category_code }}</td>
                 <td>{{ ingredient.allergen_level }}</td>
             </tr>
             {% endfor %}
         </tbody>
     </table>
+    <a href="{% url 'index' %}">トップ画面に戻る</a>
 </body>
 </html>

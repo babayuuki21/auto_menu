@@ -74,14 +74,6 @@ class AuthUserUserPermissions(models.Model):
         unique_together = (('user', 'permission'),)
 
 
-class CodeValue(models.Model):
-    code = models.TextField(primary_key=True, blank=True, null=False)
-    name = models.TextField()
-
-    class Meta:
-        managed = False
-        db_table = 'code_value'
-
 
 class DjangoAdminLog(models.Model):
     object_id = models.TextField(blank=True, null=True)
@@ -156,3 +148,16 @@ class MenuIngredient(models.Model):
     class Meta:
         managed = False
         db_table = 'menu_ingredient'
+
+class Category(models.Model):
+    category_code = models.CharField(max_length=10, unique=True)
+    category_name = models.CharField(max_length=100)
+
+class CodeValue(models.Model):
+    code = models.TextField(primary_key=True, blank=True, null=False)
+    name = models.TextField()
+
+    class Meta:
+        managed = False
+        db_table = 'code_value'
+
