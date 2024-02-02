@@ -17,9 +17,10 @@
         <tbody>
             {% for menu in menus %}
             <tr>
-                <td>{{ menu }}</td>
-                <td>{{ menu.cooking_time }}</td>
-                <td>{{ menu.name }}</td>
+                <td>{{ menu.menu_name }}</td>
+                <td>{{ menu.cooking_time }}分</td>
+                <td>{{ menu.menu_category_code }}</td>
+                <td><button type="submit">編集</button></td>
             </tr>
             {% endfor %}
         </tbody>

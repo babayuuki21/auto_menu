@@ -17,16 +17,20 @@ def random_menu(request):
 
 # メニュー管理画面表示
 def manage_menus(request):
+    query_result = Menu.objects.extra(
+        select={'menu_category_code': 'code_value.name'},
+        tables=['code_value'],
+        where=['menu.menu_category_code = code_value.code']
+    )
+    return render(request, 'menu_app/manage_menus.html', {'menus': query_result})
 
-
-    with connection.cursor() as cursor:
-        cursor.execute("select t1.menu_name as menu_name, t1.cooking_time as cooking_time, t2.name as category_name from menu t1 inner join code_value t2 on t1.menu_category_code = t2.code;")
-        result = cursor.fetchall()
-    return render(request, 'menu_app/manage_menus.html', {'menus': result})
 
 # 食材管理画面表示
 def manage_ingredients(request):
     ingredients = Ingredient.objects.all()  # 食材データを取得
+    
+    for ingredient in ingredients:
+        ingredient.allergen_level = "あり" if ingredient.allergen_level == 1 else "なし"
     return render(request, 'menu_app/manage_ingredients.html', {'ingredients': ingredients})
 
 def custom_query_sample():
@@ -35,8 +39,6 @@ def custom_query_sample():
         result = cursor.fetchall()
         return result
     
-    # select t1.menu_name, t1.cooking_time, t2.name from menu t1 inner join code_value t2 on t1.menu_category_code = t2.code;
-
 
 
 def add_menu(request):
