@@ -16,8 +16,10 @@
         <input type="number" id="cooking_time" name="cooking_time" value="{{ menu.cooking_time }}" required><br>
 
         <label for="menu_category_code">カテゴリー:</label>
-        <input type="text" id="menu_category_code" name="menu_category_code" value="{{ menu.menu_category_code }}" required><br>
-
+        <select id="menu_category_code" name="menu_category_code">
+            <option value="mc001">主菜</option>
+            <option value="mc002" >副菜</option>
+        </select>
         <input type="submit" value="保存">
     </form>
     {% endfor %}
