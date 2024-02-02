@@ -1,30 +1,52 @@
 <!DOCTYPE html>
-<html>
-<head>
-    <title>Random Menu</title>
-</head>
-<body>
-    <h1>献立表示</h1>
+<html lang="ja">
 
-    <table>
-        <thead>
-            <tr>
-                <th>ID</th>
-                <th>食材名</th>
-                <th>カテゴリー</th>
-                <th>アレルギーレベル</th>
-            </tr>
-        </thead>
-        <tbody>
-            {% for ingredient in ingredients %}
-            <tr>
-                <td>{{ ingredient.ingredient_id }}</td>
-                <td>{{ ingredient.ingredient_name }}</td>
-                <td>{{ ingredient.ingredient_category_code }}</td>
-                <td>{{ ingredient.allergen_level }}</td>
-            </tr>
-            {% endfor %}
-        </tbody>
-    </table>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Auto Menu App</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+</head>
+
+<body>
+    <header>
+        <h1>Auto Menu App</h1>
+    </header>
+
+    <section class="wrapper">
+        <div class="container">
+            <div class="content">
+                <h2 class="heading">ランダム表示</h2>
+                <div class="list">
+                    <div class="list-item">
+                        <a href="{% url 'manage_menus' %}"><img src="{% static 'image/menu.jpeg' %}" class="image"></a>
+                        {% if main.menu_name %}
+                        <div class="text">{{main.menu_name}}</div>
+                        {% else %}
+                        <div class="text">メニューがありません。<br>※追加してください。</div>
+                        {% endif %}
+                    </div>
+                    <div class="list-item">
+                        <a href="{% url 'manage_ingredients' %}"><img src="{% static 'image/food.jpeg' %}" class="image"></a>
+                        {% if sub.menu_name %}
+                        <div class="text">{{sub.menu_name}}</div>
+                        {% else %}
+                        <div class="text">メニューがありません。<br>※追加してください。</div>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="list-item">
+            <a href="{% url 'random_menu' %}"><img src="{% static 'image/chef.jpeg' %}" class="image"></a>
+            <div class="text">もう一回！</div>
+        </div>
+    </section>
+    <a href="{% url 'index' %}">トップ画面に戻る</a>
+
+    <footer>
+        <p>&copy; 2024 Auto Menu App. All rights reserved.</p>
+    </footer>
 </body>
 </html>

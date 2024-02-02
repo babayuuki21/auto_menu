@@ -11,10 +11,13 @@ def index(request):
 
 # ランダムメニュー画面表示
 def random_menu(request):
-    menus = Menu.objects.all()
-    random_menu = random.choice(menus)
-    ingredients = random_menu.ingredients.all()
-    return render(request, 'menu_app/random_menu.html', {'menu': random_menu, 'ingredients': ingredients})
+    menu_main = Menu.objects.filter(menu_category_code = "mc001")
+    menu_sub = Menu.objects.filter(menu_category_code = "mc002")
+    if menu_main:
+        menu_main = random.choice(menu_main)
+    if menu_sub:
+        menu_sub = random.choice(menu_sub)
+    return render(request, 'menu_app/random_menu.html', {'main': menu_main, 'sub': menu_sub})
 
 # メニュー管理画面表示
 def manage_menus(request):
@@ -40,7 +43,7 @@ def edit_menu(request, menu_id):
         tables=['code_value','ingredient','menu_ingredient'],
         where=[
             'menu.menu_id = menu_ingredient.menu_id',
-            'menu_ingredient.ingredient_id = ingredient.ingredient_id',
+            'menu.menu_id = ingredient.ingredient_id',
             'menu.menu_category_code = code_value.code',
         ]
     )
