@@ -29,7 +29,7 @@ def manage_menus(request):
     return render(request, 'menu_app/manage_menus.html', {'menus': query_result})
 
 # メニュー編集画面表示
-def edit_menu(request, menu_id):
+def save_edit_menu(request, menu_id):
     # メニューカテゴリーのデータを取得
     menu_categories = CodeValue.objects.filter(code__startswith = "mc")
     query_result = Menu.objects.filter(menu_id=menu_id).extra(
@@ -52,12 +52,12 @@ def edit_menu(request, menu_id):
         ingredient.allergen_level = "あり" if ingredient.allergen_level == 1 else "なし"
     return render(request, 'menu_app/edit_menu.html', {'menu': query_result, 'menu_categories': menu_categories})
 
-def save_edit_menu(request, menu_id):
+def edit_menu(request, menu_id):
     # メニューカテゴリーのデータを取得
     menu_categories = CodeValue.objects.all()
 
     # メニュー情報の取得
-    menu = get_object_or_404(Menu, menu_id=menu_id)
+    menu = Menu.objects.get(menu_id=menu_id)
 
     if request.method == 'POST':
         # POST リクエストの場合、フォームを使ってデータを処理
@@ -68,9 +68,9 @@ def save_edit_menu(request, menu_id):
             return redirect('manage_menus')
     else:
         # GET リクエストの場合、フォームを初期化して表示
-        form = EditMenuForm(instance=menu)
+        form = EditMenuForm(initial={'menu_name': menu},instance=menu)
 
-    return render(request, 'menu_app/edit_menu.html', {'menu': menu, 'menu_categories': menu_categories, 'form': form})
+    return render(request, 'menu_app/edit_menu.html', {'form': form, 'menu': menu})
 
 
 # 食材管理画面表示

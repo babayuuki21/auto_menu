@@ -6,23 +6,12 @@
 <body>
     <h1>メニュー編集</h1>
 
-    {% for menu in menu %}
-    <form method="post" action="{% url 'save_edit_menu' menu.menu_id %}" onsubmit="return confirmSubmit()">
+    <td>{{menu.menu_name}}</td>
+    <form method="post" action="" onsubmit="return confirmSubmit()">
         {% csrf_token %}
-        <label for="menu_name">メニュー名:</label>
-        <input type="text" id="menu_name" name="menu_name" value="{{ menu.menu_name }}" required><br>
-
-        <label for="cooking_time">調理時間（分）:</label>
-        <input type="number" id="cooking_time" name="cooking_time" value="{{ menu.cooking_time }}" required><br>
-
-        <label for="menu_category_code">カテゴリー:</label>
-        <select id="menu_category_code" name="menu_category_code">
-            <option value="mc001">主菜</option>
-            <option value="mc002" >副菜</option>
-        </select>
-        <input type="submit" value="保存">
+        {{ form.as_p }}
+        <button type="submit">Save</button>
     </form>
-    {% endfor %}
     <a href="{% url 'manage_menus' %}">メニュー一覧に戻る</a>
     <footer>
         <p>&copy; 2024 Auto Menu App. All rights reserved.</p>
