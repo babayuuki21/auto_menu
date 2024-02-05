@@ -26,7 +26,7 @@
                 <td>{{ menu.menu_name }}</td>
                 <td>{{ menu.cooking_time }}分</td>
                 <td>{{ menu.menu_category_code }}</td>
-                <td><form method="post" action="{% url 'edit_menu' menu.menu_id %}">
+                <td><form method="get" action="{% url 'edit_menu' menu.menu_id %}">
                     {% csrf_token %}
                     <button type="submit">編集</button>
                 </form></td>

@@ -139,9 +139,7 @@ class Menu(models.Model):
     class Meta:
         managed = False
         db_table = 'menu'
-    
-    def __str__(self):
-        return f"{self.menu_name} ({self.menu_category_code})"
+
 
 class MenuIngredient(models.Model):
     menu = models.OneToOneField(Menu, models.DO_NOTHING, primary_key=True, blank=True, null=False)  # The composite primary key (menu_id, ingredient_id) found, that is not supported. The first column is selected.

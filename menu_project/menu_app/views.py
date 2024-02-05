@@ -68,7 +68,7 @@ def edit_menu(request, menu_id):
             return redirect('manage_menus')
     else:
         # GET リクエストの場合、フォームを初期化して表示
-        form = EditMenuForm(initial={'menu_name': menu},instance=menu)
+        form = EditMenuForm(instance=menu)
 
     return render(request, 'menu_app/edit_menu.html', {'form': form, 'menu': menu})
 
