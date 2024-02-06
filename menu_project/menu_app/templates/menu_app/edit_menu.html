@@ -1,8 +1,15 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Edit Menu</title>
-</head>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>{% block title %}Edit Menu{% endblock %}</title>
+        {% load static %}
+        <link rel="stylesheet" href="{% static 'css/style.css' %}">
+        <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+    
+        <script src="{% static 'js/bootstrap.min.js' %}"></script>
+    </head>
 <body>
     <h1>メニュー編集</h1>
 
@@ -10,7 +17,24 @@
     <form method="post" action="" onsubmit="return confirmSubmit()">
         {% csrf_token %}
         {{ form.as_p }}
-        <button type="submit">Save</button>
+        <button type="submit" disabled>Save</button>
+    </form>
+
+    <form method="post" action="" onsubmit="return confirmSubmit()" class="container mt-3">
+        {% csrf_token %}
+        <div class="form-group">
+            <label for="{{ form.menu_name.id_for_label }}">Menu Name:</label>
+            {{ form.menu_name }}
+        </div>
+        <div class="form-group">
+            <label for="{{ form.menu_category_code.id_for_label }}">Menu Category Code:</label>
+            {{ form.menu_category_code }}
+        </div>
+        <div class="form-group">
+            <label for="{{ form.cooking_time.id_for_label }}">Cooking Time:</label>
+            {{ form.cooking_time }}
+        </div>
+        <button type="submit" class="btn btn-primary">Save</button>
     </form>
     <a href="{% url 'manage_menus' %}">メニュー一覧に戻る</a>
     <footer>
