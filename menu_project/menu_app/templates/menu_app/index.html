@@ -1,53 +1,39 @@
 <!-- index.html -->
+{% extends 'base.html' %}
+{% load static %}
 
-<!DOCTYPE html>
-<html lang="ja">
+{% block title %}Auto Menu App{% endblock %}
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Auto Menu App</title>
-    {% load static %}
-    <link rel="stylesheet" href="{% static 'css/style.css' %}">
-</head>
+{% block contents %}
+<main>
+    <section>
+        <h2>Welcome to our app!</h2>
+        <p>This is a simple Django app.</p>
+    </section>
+</main>
 
-<body>
-    <header>
-        <h1>Auto Menu App</h1>
-    </header>
-
-    <main>
-        <section>
-            <h2>Welcome to our app!</h2>
-            <p>This is a simple Django app.</p>
-        </section>
-    </main>
-
-    <section class="wrapper">
-        <div class="container">
-            <div class="content">
-                <h2 class="heading">ABOUT US</h2>
-                <div class="list">
-                    <div class="list-item">
-                        <a href="{% url 'random_menu' %}"><img src="{% static 'image/chef.jpeg' %}" class="image"></a>
-                        <div class="text">献立表示</div>
-                    </div>
-                    <div class="list-item">
-                        <a href="{% url 'manage_menus' %}"><img src="{% static 'image/menu.jpeg' %}" class="image"></a>
-                        <div class="text">メニュー管理</div>
-                    </div>
-                    <div class="list-item">
-                        <a href="{% url 'manage_ingredients' %}"><img src="{% static 'image/food.jpeg' %}" class="image"></a>
-                        <div class="text">食材管理</div>
-                    </div>
+<section class="wrapper">
+    <div class="container">
+        <div class="content">
+            <h2 class="heading">ABOUT US</h2>
+            <div class="list">
+                <div class="list-item">
+                    <a href="{% url 'random_menu' %}"><img src="{% static 'image/chef.jpeg' %}" class="image"></a>
+                    <div class="text">献立表示</div>
+                </div>
+                <div class="list-item">
+                    <a href="{% url 'manage_menus' %}"><img src="{% static 'image/menu.jpeg' %}" class="image"></a>
+                    <div class="text">メニュー管理</div>
+                </div>
+                <div class="list-item">
+                    <a href="{% url 'manage_ingredients' %}"><img src="{% static 'image/food.jpeg' %}" class="image"></a>
+                    <div class="text">食材管理</div>
                 </div>
             </div>
         </div>
-    </section>
-
-    <footer>
-        <p>&copy; 2024 Auto Menu App. All rights reserved.</p>
-    </footer>
-</body>
-
-</html>
+    </div>
+</section>
+<footer>
+    <p>&copy; 2024 Auto Menu App. All rights reserved.</p>
+</footer>
+{% endblock %}

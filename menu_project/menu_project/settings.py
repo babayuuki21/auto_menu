@@ -56,7 +56,7 @@ ROOT_URLCONF = 'menu_project.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR, 'templates')],
+        'DIRS': [os.path.join(BASE_DIR, 'menu_app/templates/menu_app')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
